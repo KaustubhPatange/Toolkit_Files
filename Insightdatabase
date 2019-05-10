@@ -1,0 +1,1513 @@
+{
+  "updates": {
+    "version": "1.3"
+  },
+  "filters": [
+    {
+      "id": "Semester-I",
+      "tag": "AC-I, AM-I, AP-I, BEE, Mechanics, EVS",
+      "subjects": [
+        {
+          "name": "Basic Electrical Engineering"
+        },
+        {
+          "name": "Chemistry-I"
+        },
+        {
+          "name": "Environmental Studies"
+        },
+        {
+          "name": "Math-I"
+        },
+        {
+          "name": "Mechanics"
+        },
+        {
+          "name": "Physics-I"
+        }
+      ]
+    },
+    {
+      "id": "Semester-II",
+      "tag": "AC-II, AM-II, AP-II, SPA, CS, ED",
+      "subjects": [
+        {
+          "name": "Chemistry-II"
+        },
+        {
+          "name": "Communication Skills"
+        },
+        {
+          "name": "Engineering Drawing"
+        },
+        {
+          "name": "Math-II"
+        },
+        {
+          "name": "Physics-II"
+        },
+        {
+          "name": "Structured Programming"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Basic Electrical Engineering",
+      "hex": "#ff009587",
+      "image": "https://dl.dropboxusercontent.com/s/byhm21vd33zmzc8/BEE.png?dl=0",
+      "folder": "BEE",
+      "blueprint": [
+        {
+          "name": "Revised Edition 2011-12",
+          "uploader": "Stupidsid",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "420611",
+          "dateuploaded": "2nd February 2019",
+          "description": "Uploaded by Stupidsid",
+          "pages": "1",
+          "imageurl": "https://dl.dropboxusercontent.com/s/yucfd1gz26qetur/RevisedEdition2011-120.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/e29p3z2ub7mkhk8/Revised%20Edition%202011-12.pdf?dl=0"
+        },
+        {
+          "name": "Revised Edition 2012",
+          "uploader": "Campuskeeda",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "658961",
+          "dateuploaded": "2nd February 2019",
+          "description": "Uploaded by Campuskeeda",
+          "pages": "2",
+          "imageurl": "https://dl.dropboxusercontent.com/s/p55dp07f7pslplz/RevisedEdition20120.png?dl=0,",
+          "link": "https://dl.dropboxusercontent.com/s/0yls5ybo2gveqoi/Revised%20Edition%202012.pdf?dl=0"
+        }
+      ],
+      "notes": [
+        {
+          "name": "AC Circuits (Chapter 2)",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "3015147",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete notes for chapter <b>AC Circuits</b> of BEE. The document contains all important thoery question and answers along with numericals in typical Q&A form.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "33",
+          "imageurl": "https://dl.dropboxusercontent.com/s/7srh4vqjd1bkuzo/ACCircuits%28Chapter2%290.png?dl=0,https://dl.dropboxusercontent.com/s/qud0p5kfpovm1p7/ACCircuits%28Chapter2%291.png?dl=0,https://dl.dropboxusercontent.com/s/fltvlep80zrvqjn/ACCircuits%28Chapter2%292.png?dl=0,https://dl.dropboxusercontent.com/s/5kr1zl0q390mrjo/ACCircuits%28Chapter2%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/6crff8c1q2o2n5e/AC%20Circuits%20%28Chapter%202%29.pdf?dl=0"
+        },
+        {
+          "name": "Complete Notes",
+          "uploader": "Smartzworld",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "9267584",
+          "dateuploaded": "6th March 2019",
+          "description": "The document build basics of BEE then move onto our syllabus. It includes theory, mostly theorems.<br><br>Provided by https://smartzworld.com",
+          "pages": "65",
+          "imageurl": "https://dl.dropboxusercontent.com/s/w5f3crjp2tuo3zw/BasicElectricalEngineering0.png?dl=0,https://dl.dropboxusercontent.com/s/myqxx7q7did8rdl/BasicElectricalEngineering1.png?dl=0,https://dl.dropboxusercontent.com/s/xc7j52ge3qa9ci6/BasicElectricalEngineering2.png?dl=0,https://dl.dropboxusercontent.com/s/wdzdyo0zbtyjh66/BasicElectricalEngineering3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1qjvylmO0UiuPUx54BBXWg8HTfMAFAfsy"
+        },
+        {
+          "name": "DC Circuits (Chapter 1)",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "3827187",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete notes for chapter <b>DC Circuits</b> of BEE. The document contains all important thoery question and answers along with numericals in typical Q&A form.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "46",
+          "imageurl": "https://dl.dropboxusercontent.com/s/chq95pde877z7fu/DCCircuits%28Chapter1%290.png?dl=0,https://dl.dropboxusercontent.com/s/eusntlrt00he3w5/DCCircuits%28Chapter1%291.png?dl=0,https://dl.dropboxusercontent.com/s/8tjhcbyk01d1n1p/DCCircuits%28Chapter1%292.png?dl=0,https://dl.dropboxusercontent.com/s/dxdpql2d2ew07c1/DCCircuits%28Chapter1%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/xkx6e3iirn81t60/DC%20Circuits%20%28Chapter%201%29.pdf?dl=0"
+        },
+        {
+          "name": "DC Machine  (Chapter 5)",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "7165279",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete notes for chapter <b>DC Machines</b> of BEE. The document contains all important thoery question and answers along with numericals in typical Q&A form.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "15",
+          "imageurl": "https://dl.dropboxusercontent.com/s/sy33z7z861s2r7s/DCMachine%28Chapter5%290.png?dl=0,https://dl.dropboxusercontent.com/s/aus2ynsi3v0v7r3/DCMachine%28Chapter5%291.png?dl=0,https://dl.dropboxusercontent.com/s/npn5779ck5gnnyd/DCMachine%28Chapter5%292.png?dl=0,https://dl.dropboxusercontent.com/s/gzfovytjriczm4k/DCMachine%28Chapter5%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=14qfGCn9m8H74YOH3TUrYNTZuKCGl3oOl"
+        },
+        {
+          "name": "Formula List",
+          "uploader": "Anonymous",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "1202248",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete formula list for all topics in <b>BEE</b>. <i>This does not include phasor diagrams</i>.",
+          "pages": "6",
+          "imageurl": "https://dl.dropboxusercontent.com/s/ybf1fm65hp8uanr/FormulaList0.png?dl=0,https://dl.dropboxusercontent.com/s/gb9tsfc44rc59ew/FormulaList1.png?dl=0,https://dl.dropboxusercontent.com/s/g634z1pgrtukmf3/FormulaList2.png?dl=0,https://dl.dropboxusercontent.com/s/rkqpy6tydmovvrd/FormulaList3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/c2fc9vdgsp52lpk/Formula%20List.pdf?dl=0"
+        },
+        {
+          "name": "Important Points & Tips",
+          "uploader": "Prof. DJ",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "271702",
+          "dateuploaded": "6th March 2019",
+          "description": "The document covers some important thoery points like what to study, numericals structure along with their weightage for all topics in <b>BEE</b><br><br>Provided by Prof. DJ (+919969443990)",
+          "pages": "4",
+          "imageurl": "https://dl.dropboxusercontent.com/s/tq1eei085zq6294/ImportantPointsofBEE0.png?dl=0,https://dl.dropboxusercontent.com/s/c2gmu79qan2q87o/ImportantPointsofBEE1.png?dl=0,https://dl.dropboxusercontent.com/s/p1kbtb57nt0uxr6/ImportantPointsofBEE2.png?dl=0,https://dl.dropboxusercontent.com/s/j6kx2o106cl8h2l/ImportantPointsofBEE3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/u1en8v7ft5in2oy/Important%20Points%20of%20BEE.pdf?dl=0"
+        },
+        {
+          "name": "Three phase (Chapter 3)",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "1768155",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete notes for chapter <b>Three Phase</b> of BEE. The document contains all important thoery question and answers along with numericals in typical Q&A form.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "20",
+          "imageurl": "https://dl.dropboxusercontent.com/s/e7ckvukcfpc4tsj/Threephase%28Chapter3%290.png?dl=0,https://dl.dropboxusercontent.com/s/gcc25krp81bayyc/Threephase%28Chapter3%291.png?dl=0,https://dl.dropboxusercontent.com/s/4f7fvb87chiz0nk/Threephase%28Chapter3%292.png?dl=0,https://dl.dropboxusercontent.com/s/uxp2luu3pbt97yl/Threephase%28Chapter3%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/f60rtfe2ptp4wf8/Three%20phase%20%28Chapter%203%29.pdf?dl=0"
+        },
+        {
+          "name": "Transformer (Chapter 4)",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "2466723",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete notes for chapter <b>Transformer</b> of BEE. The document contains all important thoery question and answers along with numericals in typical Q&A form.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "24",
+          "imageurl": "https://dl.dropboxusercontent.com/s/ob8a23lnzvaxb13/Transformer%28Chapter4%290.png?dl=0,https://dl.dropboxusercontent.com/s/2q83zq640upqs3v/Transformer%28Chapter4%291.png?dl=0,https://dl.dropboxusercontent.com/s/un3oignwm3jrmqp/Transformer%28Chapter4%292.png?dl=0,https://dl.dropboxusercontent.com/s/zx1yfigqpf1uoxl/Transformer%28Chapter4%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/sww1bb6psn3d19z/Transformer%20%28Chapter%204%29.pdf?dl=0"
+        },
+        {
+          "name": "Viva Questions",
+          "uploader": "Mumbai University",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "15594327",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes all important theory viva question and answers they may ask.<br>Remember to practice <i>numericals</i> and <i>phasor diagrams</i> for Viva.",
+          "pages": "46",
+          "imageurl": "https://dl.dropboxusercontent.com/s/ollw1dh1nrc8n8f/VivaQuestions0.png?dl=0,https://dl.dropboxusercontent.com/s/innrt6mxy5oc3ou/VivaQuestions1.png?dl=0,https://dl.dropboxusercontent.com/s/9sjkbhwr9hnqf3p/VivaQuestions2.png?dl=0,https://dl.dropboxusercontent.com/s/tnkviuhi3calva7/VivaQuestions3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1cL-Jv02js4nEWkjzrOg9DKqzrZVNgG-f"
+        },
+        {
+          "name": "Viva Questions 2",
+          "uploader": "Vidyalankar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "635637",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes list of viva questions only including theorems, phasor diagrams, etc.",
+          "pages": "3",
+          "imageurl": "https://dl.dropboxusercontent.com/s/l4vgu4gplat7p6a/VivaQuestions20.png?dl=0,https://dl.dropboxusercontent.com/s/1n9241dm097ffhc/VivaQuestions21.png?dl=0,https://dl.dropboxusercontent.com/s/4wbo82ijnhe3qsm/VivaQuestions22.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/6dw6zedkf23oxuo/Viva%20Questions%202.pdf?dl=0"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2015 - 2017 (PS)",
+          "uploader": "TCET",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "4486151",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes question papers along with its solutions to previous years examinations typically from December 2015 to December 2017.<br><br>Provided by Thakur College of Engineering - https://www.tcetmumbai.in",
+          "pages": "54",
+          "imageurl": "https://dl.dropboxusercontent.com/s/jl1lt24oo7sa1hl/December2015-2017%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/tcvovk0g1jlgxta/December2015-2017%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/fz6m2i1g9tbug8v/December2015-2017%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/amkx47kwu35m8r5/December2015-2017%28PS%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/mfz3l3pn8sn0d78/December%202015-2017%20%28PS%29.pdf?dl=0"
+        },
+        {
+          "name": "December 2018 (PS)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "1167927",
+          "dateuploaded": "27th April 2019",
+          "description": "The document contains question paper and solutions to previous year examination December 2018 of <b>BEE</b>.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "20",
+          "imageurl": "https://dl.dropboxusercontent.com/s/ypyd0mlu3xmf02t/December2018%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/7fb2zqhwtxmdlst/December2018%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/3khz5mu7lm4nqqa/December2018%28PS%292.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/9zso4291ln3jmgb/December%202018%20%28PS%29.pdf?dl=0"
+        },
+        {
+          "name": "May & December 2012 - 2017 (S)",
+          "uploader": "Vidyalankar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "20568566",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes solutions to previous years examinations typically from December 2012 to May 2017.<br><br>Provided by http://vidyalankar.org",
+          "pages": "174",
+          "imageurl": "https://dl.dropboxusercontent.com/s/b5qa0jnh67bybnt/May%26December2012-2017%28S%290.png?dl=0,https://dl.dropboxusercontent.com/s/wo2yhjn3otmhisp/May%26December2012-2017%28S%291.png?dl=0,https://dl.dropboxusercontent.com/s/wwn0b36rueaa3op/May%26December2012-2017%28S%292.png?dl=0,https://dl.dropboxusercontent.com/s/dt06c8z3ctsgkns/May%26December2012-2017%28S%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=15DHeJGm2rffmMpjBuKPlxUfwZc4sDQAU"
+        },
+        {
+          "name": "May 2013 - 2018 (PS)",
+          "uploader": "TCET",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "16191529",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes question papers along with its solutions to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by Thakur College of Engineering - https://www.tcetmumbai.in",
+          "pages": "91",
+          "imageurl": "https://dl.dropboxusercontent.com/s/ukvggwnq431zz94/May2013-2018%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/1g1rqb9e2h2bd3q/May2013-2018%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/kqokmdpi12pl3ur/May2013-2018%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/ebxn4jtzjblm079/May2013-2018%28PS%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1uMTgvBcJGLu0JaB8ZcvqwKs-fyrN1DBW"
+        }
+      ],
+      "library": [
+        {
+          "name": "Basic Electrical Engineering",
+          "uploader": "B. R. Patil",
+          "uploadermail": "tpwork724@gmail.com",
+          "sizebytes": "33588139",
+          "dateuploaded": "24th March 2019",
+          "description": "The most recommended book for studying BEE. Lots of solved problems and good theory.<br><br><b>Table of contents:</b><br><i>DC Circuits, AC Circuits, Three-Phase Circuits, Single-Phase Transformers, DC Machines.</i>",
+          "pages": "265",
+          "imageurl": ",,,",
+          "link": "https://drive.google.com/uc?export=download&id=1jRcxjtN83XbrG-z7PxKWTChisD-UwDXz"
+        },
+        {
+          "name": "Basic Electrical Engineering (E2)",
+          "uploader": "Ravish R. Singh",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "36533710",
+          "dateuploaded": "22th March 2019",
+          "description": "One of the famous book for BEE. The book contains a lot of solved numerical and concised theory.<br><br><b>Table of contents:</b><br><i>Basic Concepts, DC Circuits, AC Fundamentals, Single-Phase AC Circuits, Three-Phase Circuits, Single-Phase Transformers, DC Machines.</i>",
+          "pages": "312",
+          "imageurl": "https://dl.dropboxusercontent.com/s/p0l8c4sy21gi1zm/BasicElectricalEngineering%28E2%290.png?dl=0,https://dl.dropboxusercontent.com/s/2r11us78iboclbd/BasicElectricalEngineering%28E2%291.png?dl=0,https://dl.dropboxusercontent.com/s/okorgewyofnzzfg/BasicElectricalEngineering%28E2%292.png?dl=0,https://dl.dropboxusercontent.com/s/ddczzjawy1g7jhq/BasicElectricalEngineering%28E2%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=12mNdEvZnokM57kU0AXyc4movOwc1thLu"
+        }
+      ]
+    },
+    {
+      "name": "Chemistry-I",
+      "hex": "#ff683A68",
+      "image": "https://dl.dropboxusercontent.com/s/f2br2pxym6nkmw5/chem.png?dl=0",
+      "folder": "AppliedChemistry",
+      "blueprint": [
+        {
+          "name": "Revised Edition 2012",
+          "uploader": "campuskeeda",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "182106",
+          "dateuploaded": "27th Janaury 2019",
+          "description": "Uploaded by campuskeeda",
+          "pages": "2",
+          "imageurl": "https://dl.dropboxusercontent.com/s/xgfbqqs3bttip6g/image1.png?dl=0,https://dl.dropboxusercontent.com/s/e50ktvzbzvp5f9z/image2.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/ogmluxlp30w3f54/Revised%20Edition%202012.pdf?dl=0"
+        },
+        {
+          "name": "Revised Edition 2011-12",
+          "uploader": "stupidsid",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "173437",
+          "dateuploaded": "27th Janaury 2019",
+          "description": "Uploaded by stupidsid",
+          "pages": "1",
+          "imageurl": "https://dl.dropboxusercontent.com/s/2vv7zc0kl7wmaql/image.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/m2kavhn775sccx3/Revised%20Edition%202011-12.pdf?dl=0"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2016 (PS)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "3433315",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes question paper along with its solution to previous year examination December 2016.<br><br>Provided by https://muquestionpapers.com",
+          "pages": "17",
+          "imageurl": "https://dl.dropboxusercontent.com/s/h4v5sp372esado4/December2016%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/5bllj72fbd37can/December2016%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/op66u7gpk03v4wn/December2016%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/qp7kux53syar8g1/December2016%28PS%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/iq7tzpzgoff3pu5/December%202016%20%28PS%29.pdf?dl=0"
+        },
+        {
+          "name": "December 2017 (PS)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "4472697",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes question paper along with its solution to previous year examination December 2017.<br><br>Provided by https://muquestionpapers.com",
+          "pages": "20",
+          "imageurl": "https://dl.dropboxusercontent.com/s/yrlzkc56fr8q9za/December2017%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/3utpi62w864v225/December2017%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/hy7uuuuv0vs6rci/December2017%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/cihw08dgxojly1v/December2017%28PS%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/6kmf087hiw04pde/December%202017%20%28PS%29.pdf?dl=0"
+        },
+        {
+          "name": "May 2013 - 2018 (PS)",
+          "uploader": "TCET",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "8029166",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes question papers along with its solutions to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by Thakur College of Engineering - https://www.tcetmumbai.in",
+          "pages": "111",
+          "imageurl": "https://dl.dropboxusercontent.com/s/3aeuaoxttrrptbh/May2013-2018%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/jw2tskh5hv6irk6/May2013-2018%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/64ixnazcdfpb1bh/May2013-2018%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/msae6axmtfgtq23/May2013-2018%28PS%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=16zI9Qyq7kLZsSnQYPJj854KTtLrVHtQ4"
+        }
+      ],
+      "notes": [
+        {
+          "name": "Engineering Materials (Chapter 5)",
+          "uploader": "Pinnacle Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "1586556",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete notes for chapter <b>Important Engineering Materials</b> of Applied Chemistry-I.<br><br>Provided by http://pinnacles.org.in",
+          "pages": "16",
+          "imageurl": "https://dl.dropboxusercontent.com/s/nwm7rwff6fqmzvd/EngineeringMaterials%28Chapter5%290.png?dl=0,https://dl.dropboxusercontent.com/s/qclp2wd26rt5d82/EngineeringMaterials%28Chapter5%291.png?dl=0,https://dl.dropboxusercontent.com/s/7qv2isc7e6ohoxv/EngineeringMaterials%28Chapter5%292.png?dl=0,https://dl.dropboxusercontent.com/s/yz05ko2rdhy5epi/EngineeringMaterials%28Chapter5%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/z5x6udelk0kp2j1/Engineering%20Materials%20%28Chapter%205%29.pdf?dl=0"
+        },
+        {
+          "name": "Lubricants (Chapter 3)",
+          "uploader": "Pinnacle Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "727094",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete notes for chapter <b>Lubricants</b> of Applied Chemistry-I. <i>This includes thoery as well as numericals</i>.<br><br>Provided by http://pinnacles.org.in",
+          "pages": "16",
+          "imageurl": "https://dl.dropboxusercontent.com/s/hvdk2cxrsso9znk/Lubricants%28Chapter3%290.png?dl=0,https://dl.dropboxusercontent.com/s/67fau2ts4sjy7wy/Lubricants%28Chapter3%291.png?dl=0,https://dl.dropboxusercontent.com/s/fxthlzqhcye74c7/Lubricants%28Chapter3%292.png?dl=0,https://dl.dropboxusercontent.com/s/4f2penzhz7bzgp8/Lubricants%28Chapter3%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/ew8jgf7krnivh3v/Lubricants%20%28Chapter%203%29.pdf?dl=0"
+        },
+        {
+          "name": "Phase Rule (Chapter 4)",
+          "uploader": "Pinnacle Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "633443",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete notes for chapter <b>Phase Rule</b> of Applied Chemistry-I.<br><br>Provided by http://pinnacles.org.in",
+          "pages": "10",
+          "imageurl": "https://dl.dropboxusercontent.com/s/ovkooifgedht86y/PhaseRule%28Chapter4%290.png?dl=0,https://dl.dropboxusercontent.com/s/gt2h40qvf4tula1/PhaseRule%28Chapter4%291.png?dl=0,https://dl.dropboxusercontent.com/s/0m41yprlob3uvan/PhaseRule%28Chapter4%292.png?dl=0,https://dl.dropboxusercontent.com/s/a8fnoyj50wte4jc/PhaseRule%28Chapter4%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/pfnv6z3ugrvwrot/Phase%20Rule%20%28Chapter%204%29.pdf?dl=0"
+        },
+        {
+          "name": "Polymers (Chapter 2)",
+          "uploader": "Pinnacle Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "1971544",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete notes for chapter <b>Polymers</b> of Applied Chemistry-I.<br><br>Provided by http://pinnacles.org.in",
+          "pages": "28",
+          "imageurl": "https://dl.dropboxusercontent.com/s/3c22syl158ttphj/Polymers%28Chapter2%290.png?dl=0,https://dl.dropboxusercontent.com/s/nt0j99ufgryx2mu/Polymers%28Chapter2%291.png?dl=0,https://dl.dropboxusercontent.com/s/i9husz35i3qr1v7/Polymers%28Chapter2%292.png?dl=0,https://dl.dropboxusercontent.com/s/2z7n3t2rhngrwl1/Polymers%28Chapter2%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/zq7ondbshalt1om/Polymers%20%28Chapter%202%29.pdf?dl=0"
+        },
+        {
+          "name": "Water (Chapter 1)",
+          "uploader": "Pinnacle Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "1095177",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete notes for chapter <b>Water</b> of Applied Chemistry-I. <i>This includes thoery as well as numericals</i>.<br><br>Provided by http://pinnacles.org.in",
+          "pages": "30",
+          "imageurl": "https://dl.dropboxusercontent.com/s/askzpv3ujhnxwoc/Water%28Chapter1%290.png?dl=0,https://dl.dropboxusercontent.com/s/uvv0wulkjk3paid/Water%28Chapter1%291.png?dl=0,https://dl.dropboxusercontent.com/s/esvtmef5s0r486s/Water%28Chapter1%292.png?dl=0,https://dl.dropboxusercontent.com/s/zkbxu4k3ak9s4j5/Water%28Chapter1%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/hwnluoa67cnw6yl/Water%20%28Chapter%201%29.pdf?dl=0"
+        }
+      ],
+      "library": [
+        {
+          "name": "Applied Chemistry-I",
+          "uploader": "TechMax",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "57734014",
+          "dateuploaded": "6th March 2019",
+          "description": "A book by Prof. Dr. (Mrs) Jayshree A. Parikh and from most common and famous publisher TechMax.<br><br>Provided by https://techmaxebooks.com",
+          "pages": "310",
+          "imageurl": "https://dl.dropboxusercontent.com/s/u0hy9uauwq993tt/AppliedChemistry-I0.png?dl=0,https://dl.dropboxusercontent.com/s/poi5eoc29kfe8kv/AppliedChemistry-I1.png?dl=0,https://dl.dropboxusercontent.com/s/utu3doygmlvg4d3/AppliedChemistry-I2.png?dl=0,https://dl.dropboxusercontent.com/s/9zw9nu4pnxndaxl/AppliedChemistry-I3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1eRxvGo7K6mgrYPFw2J1HmbhzZffrql83"
+        },
+        {
+          "name": "Engineering Chemistry",
+          "uploader": "Jain & Jain",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "13493685",
+          "dateuploaded": "6th March 2019",
+          "description": "A book for those who wants to learn core Chemistry.<br><br><b>Table of contents:</b><br><i>Atoms and Molecules, Valency and Chemical Bonding, Nuclear Chemistry, Thermodynamics, Reaction Dynamics / Chemical Kinetics, Catalyst, Mechanism of Organic Reactions, Ionic Equilibrium, Electrochemistry, Electrochemical Cells, Phase Rule, Colloids, Transition Metal Chemistry, Metallurgy, Adhesives, Explosives and Propellants, Water Treatment, Fuels and Combustion, Silicate Technology, Polymers, Paints, Solid State Chemistry, Chromatography, Instumental Methods of Analysis, Photochemistry, Role of Metals in Bilogy, Pollution Preventions and Waste Minimisation.</i>",
+          "pages": "606",
+          "imageurl": "https://dl.dropboxusercontent.com/s/hm5m7cpiv7oft1u/EngineeringChemistry0.png?dl=0,https://dl.dropboxusercontent.com/s/nzr4vc0koq6xe6o/EngineeringChemistry1.png?dl=0,https://dl.dropboxusercontent.com/s/rch3tysj3z7uxbc/EngineeringChemistry2.png?dl=0,https://dl.dropboxusercontent.com/s/djtpf4ip4dp9lny/EngineeringChemistry3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=10WikI4BaJzSaSXH1cVK2fnJZOC4lzhTX"
+        }
+      ]
+    },
+    {
+      "name": "Chemistry-II",
+      "hex": "#ff5427ab",
+      "image": "https://dl.dropboxusercontent.com/s/zoh9uxva6mya9td/chem1.png?dl=0",
+      "folder": "AppliedChemistry2",
+      "blueprint": [
+        {
+          "name": "Revised Edition 2012",
+          "uploader": "Stupidsid",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "403093",
+          "dateuploaded": "3rd March 2019",
+          "description": "Uploaded by Stupidsid",
+          "pages": "1",
+          "imageurl": "https://dl.dropboxusercontent.com/s/dnrep06494dbctc/RevisedEdition20120.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/5h6v43d5y2sa020/Revised%20Edition%202012.pdf?dl=0"
+        }
+      ],
+      "notes": [
+        {
+          "name": "Complete Notes",
+          "uploader": "Jayshree A. Parikh",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "6381925",
+          "dateuploaded": "7th March 2019",
+          "description": "A complete notes to <b>Applied Chemistry 2</b>. <i>The document includes theory and numericals in Q&A format.</i><br><br>Provided by http://brainheaters.in",
+          "pages": "125",
+          "imageurl": "https://dl.dropboxusercontent.com/s/3qih6tu56qvhq2k/CompleteNotes0.png?dl=0,https://dl.dropboxusercontent.com/s/p2pszd4i4xcup31/CompleteNotes1.png?dl=0,https://dl.dropboxusercontent.com/s/hu4fji8t5p0opq1/CompleteNotes2.png?dl=0,https://dl.dropboxusercontent.com/s/8om493s7mzdv2mk/CompleteNotes3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1Z0IZ7V3SfE7wmJ5V1Sk5rc6pDMMaIsQG"
+        }
+      ],
+      "library": [
+        {
+          "name": "Applied Chemistry - II",
+          "uploader": "TechMax",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "28958790",
+          "dateuploaded": "7th March 2019",
+          "description": "A book by Prof. Dr. Jayshree A. Parikh and from most common and famous publisher TechMax.<br><br>Provided by https://techmaxebooks.com",
+          "pages": "131",
+          "imageurl": "https://dl.dropboxusercontent.com/s/pz8tfuch5ybse64/AppliedChemistry-II0.png?dl=0,https://dl.dropboxusercontent.com/s/1jphmwnd38ptqgj/AppliedChemistry-II1.png?dl=0,https://dl.dropboxusercontent.com/s/l53spee6n3w7dtw/AppliedChemistry-II2.png?dl=0,https://dl.dropboxusercontent.com/s/kg98m6rtn9sck36/AppliedChemistry-II3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1H9D2Z1dNrXBDXyTismSgHqv8VWlsoIHG"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2013 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "7905034",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from December 2013 to December 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "12",
+          "imageurl": "https://dl.dropboxusercontent.com/s/kps8l4hrjbywiio/December2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/zmzse3ruqf0w384/December2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/kgtkb90fyhisi0c/December2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/0z5sdxk7v6855uj/December2013-2018%28P%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1f2F_lwliUx6ISDzibOdhwvGo84ECeafP"
+        },
+        {
+          "name": "May & December 2013 - 2017 (S)",
+          "uploader": "Vidyalankar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "36691803",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes solutions to previous years examinations typically from May 2013 to December 2017.<br><br>Provided by http://vidyalankar.org",
+          "pages": "68",
+          "imageurl": "https://dl.dropboxusercontent.com/s/xv36hxja2b00b6g/May%26December2013-2017%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/1atlm7207n6vj9y/May%26December2013-2017%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/qrlmsb5kez4orr6/May%26December2013-2017%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/z5g1sxkr7lxz4nm/May%26December2013-2017%28PS%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1M_ap9D8X8A1TZdVqQ1QCi6AZ4l6hHKS4"
+        },
+        {
+          "name": "May 2013 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "10982134",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "12",
+          "imageurl": "https://dl.dropboxusercontent.com/s/tjj07dalaquioql/May2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/xaqir5l6dfa3e9g/May2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/e1y69zncwzl434g/May2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/i2tlqy2r3uusbd8/May2013-2018%28P%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1aHXZT3pToGkjkbtKGJHNJO7NO40N9uvg"
+        }
+      ]
+    },
+    {
+      "name": "Communication Skills",
+      "hex": "#ffbeb331",
+      "image": "https://dl.dropboxusercontent.com/s/zi4l9fi0592836j/CS.png?dl=0",
+      "folder": "CommunicationSkills",
+      "blueprint": [
+        {
+          "name": "Revised Edition 2011-12",
+          "uploader": "Campuskeeda",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "373487",
+          "dateuploaded": "3rd March 2019",
+          "description": "Uploaded by Campuskeeda",
+          "pages": "2",
+          "imageurl": "https://dl.dropboxusercontent.com/s/prfnubag0hjmfyr/RevisedEdition2011-120.png?dl=0,https://dl.dropboxusercontent.com/s/kot52naljyj287c/RevisedEdition2011-121.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/o0fuyuivqa09yl2/Revised%20Edition%202011-12.pdf?dl=0"
+        }
+      ],
+      "notes": [
+        {
+          "name": "Complete Notes",
+          "uploader": "Easy Solutions",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "18245804",
+          "dateuploaded": "7th March 2019",
+          "description": "A book from TechMax, published by Easy Solutions include notes in form of Q&A for all chapters in <b>Communication Skills</b>.<br><br>Provided by https://techmaxbooks.com",
+          "pages": "78",
+          "imageurl": "https://dl.dropboxusercontent.com/s/0mx8os3xq62rvar/CSEasySolution0.png?dl=0,https://dl.dropboxusercontent.com/s/aqu43t5gp0dvxxc/CSEasySolution1.png?dl=0,https://dl.dropboxusercontent.com/s/1u5ypjbxeff4b94/CSEasySolution2.png?dl=0,https://dl.dropboxusercontent.com/s/rc6fvim5roncxry/CSEasySolution3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1DUUQcbZcM2l418ivak2-4si7bkfjS_GK"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2013 - 2018 (P)",
+          "uploader": "Mu Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "9041215",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from December 2013 to December 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "20",
+          "imageurl": "https://dl.dropboxusercontent.com/s/4fufu7oc8rij474/December2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/wttaa7xwqnw799j/December2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/lvl8wpzy86wc3w1/December2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/ggvm7m5vprxth87/December2013-2018%28P%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1-ONt7-dfoSC1Arl766DO9AocOBfmSUsi"
+        },
+        {
+          "name": "May & December 2013 - 2017 (S)",
+          "uploader": "Vidyalankar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "39981003",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes solutions to previous years examinations typically from May 2013 to December 2017.<br><br>Provided by http://vidyalankar.org",
+          "pages": "68",
+          "imageurl": "https://dl.dropboxusercontent.com/s/hrudctyvzdbws69/May%26December2013-2017%28S%290.png?dl=0,https://dl.dropboxusercontent.com/s/hdfny4ne1qq0yw8/May%26December2013-2017%28S%291.png?dl=0,https://dl.dropboxusercontent.com/s/i9n7f7b1p6343wz/May%26December2013-2017%28S%292.png?dl=0,https://dl.dropboxusercontent.com/s/kmlmzzihg2yrvl9/May%26December2013-2017%28S%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1rXmrPY73dPJpDeEuzNHbKyLkeMx-Stvn"
+        },
+        {
+          "name": "May 2013 - 2018 (P)",
+          "uploader": "Mu Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "13273703",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "22",
+          "imageurl": "https://dl.dropboxusercontent.com/s/hd6xjswwrwpu4jo/May2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/ml9asjcbyjolif0/May2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/zaiavffpak2g3k0/May2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/7ecwtnb5zlqh6sh/May2013-2018%28P%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1F_oqNpngUMvGyTDctWPlmEEziYgjLnh9"
+        }
+      ],
+      "library": [
+        {
+          "name": "Communication Skills",
+          "uploader": "TechMax",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "72797202",
+          "dateuploaded": "7th March 2019",
+          "description": "A book by Dr. Arpita Palchoudhury, Madhuvanti A. Date, Nuzhat N. Khan and from most common and famous publisher TechMax.<br><br>Provided by https://techmaxebooks.com",
+          "pages": "324",
+          "imageurl": "https://dl.dropboxusercontent.com/s/etmpm02ffhrw1va/CommunicationSkills0.png?dl=0,https://dl.dropboxusercontent.com/s/qc9g3xgr0e7d7xf/CommunicationSkills1.png?dl=0,https://dl.dropboxusercontent.com/s/wqe7mbqcpmin0tm/CommunicationSkills2.png?dl=0,https://dl.dropboxusercontent.com/s/pabbjvuclg4n6mm/CommunicationSkills3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1SAbtPXW8r-Q5tEnLNGqtyDhV74NK6cS7"
+        }
+      ]
+    },
+    {
+      "name": "Engineering Drawing",
+      "hex": "#ff7d72af",
+      "image": "https://dl.dropboxusercontent.com/s/5toglka2e5zzb4h/ED.png?dl=0",
+      "folder": "ED",
+      "blueprint": [
+        {
+          "name": "Revised Edition 2011-12",
+          "uploader": "Campuskeeda",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "294815",
+          "dateuploaded": "3rd March 2019",
+          "description": "Uploaded by Campuskeeda",
+          "pages": "1",
+          "imageurl": "https://dl.dropboxusercontent.com/s/qno9jt4msspsfgn/RevisedEdition2011-120.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/utzcqy0diro4a4f/Revised%20Edition%202011-12.pdf?dl=0"
+        },
+        {
+          "name": "Revised Edition 2012",
+          "uploader": "Stupidsid",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "240571",
+          "dateuploaded": "3rd March 2019",
+          "description": "Uploaded by Stupidsid",
+          "pages": "1",
+          "imageurl": "https://dl.dropboxusercontent.com/s/xsmvq03c2cklfcv/RevisedEdition20120.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/egn20ds895jttkc/Revised%20Edition%202012.pdf?dl=0"
+        }
+      ],
+      "notes": [
+        {
+          "name": "Engineering Curves (Part 1)",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "982735",
+          "dateuploaded": "7th March 2019",
+          "description": "A complete notes on chapter <b>Engineering Curves</b>, should given 5th priority for studying.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "8",
+          "imageurl": "https://dl.dropboxusercontent.com/s/fk94obxvekci86m/EngineeringCurves%28Module1%290.png?dl=0,https://dl.dropboxusercontent.com/s/qn9uvauzyr330of/EngineeringCurves%28Module1%291.png?dl=0,https://dl.dropboxusercontent.com/s/as1wxj8ib0qux28/EngineeringCurves%28Module1%292.png?dl=0,https://dl.dropboxusercontent.com/s/om8snqj7ih8v5hl/EngineeringCurves%28Module1%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/a3cthii0vo6hgjv/Engineering%20Curves%20%28Module%201%29.pdf?dl=0"
+        },
+        {
+          "name": "Isometrics Projections (Part 3)",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "1078000",
+          "dateuploaded": "7th March 2019",
+          "description": "A complete notes on chapter <b>Isometrics Projections</b>, should given 4th priority for studying.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "23",
+          "imageurl": "https://dl.dropboxusercontent.com/s/0pg0pa99oigvgei/IsometricsProjections%28Part3%290.png?dl=0,https://dl.dropboxusercontent.com/s/fqwp5ndiszqswv3/IsometricsProjections%28Part3%291.png?dl=0,https://dl.dropboxusercontent.com/s/33yulr4638mxh2p/IsometricsProjections%28Part3%292.png?dl=0,https://dl.dropboxusercontent.com/s/5f1t5b35u9p9gal/IsometricsProjections%28Part3%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/2vqpk5xkud56pbs/Isometrics%20Projections%20%28Part%203%29.pdf?dl=0"
+        },
+        {
+          "name": "Orthographic Projections (Part 2)",
+          "uploader": "Vidyalankar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "9852724",
+          "dateuploaded": "7th March 2019",
+          "description": "A complete notes on chapter <b>Orthographic Projections</b>, should given 2nd priority for studying.<br><br>Provided by http://vidyalankar.org",
+          "pages": "28",
+          "imageurl": "https://dl.dropboxusercontent.com/s/nktf2i5x8r30azd/OrthographicProjections%28Section2%290.png?dl=0,https://dl.dropboxusercontent.com/s/g9orcxmhqaiws3f/OrthographicProjections%28Section2%291.png?dl=0,https://dl.dropboxusercontent.com/s/1l3y2imif6w9tq2/OrthographicProjections%28Section2%292.png?dl=0,https://dl.dropboxusercontent.com/s/57ewitlh4nmy0ra/OrthographicProjections%28Section2%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1Qud4D3sMS0Ej5pAqK57p7otu9jVaCi2d"
+        },
+        {
+          "name": "Projection of Straight Lines (Part 4.1)",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "1514236",
+          "dateuploaded": "7th March 2019",
+          "description": "A complete notes on chapter <b>Projection of Straight Lines</b>, should given 3rd priority for studying.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "14",
+          "imageurl": "https://dl.dropboxusercontent.com/s/axp73rl5i4vjj7l/ProjectionofStraightLines%28Part4%290.png?dl=0,https://dl.dropboxusercontent.com/s/q661p0vgdhs72xc/ProjectionofStraightLines%28Part4%291.png?dl=0,https://dl.dropboxusercontent.com/s/bxlimkcyoiumirs/ProjectionofStraightLines%28Part4%292.png?dl=0,https://dl.dropboxusercontent.com/s/kg4kck5nfo849ep/ProjectionofStraightLines%28Part4%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/zy9e3ct6gfpc78j/Projection%20of%20Straight%20Lines%20%28Part%204%29.pdf?dl=0"
+        },
+        {
+          "name": "Projections of Solids (Part 5.1)",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "1769744",
+          "dateuploaded": "7th March 2019",
+          "description": "A complete notes on chapter <b>Projection of Solids</b>, should given 1st priority for studying.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "22",
+          "imageurl": "https://dl.dropboxusercontent.com/s/6iptvtnqn1jvd90/ProjectionsofSolids%28Part5.1%290.png?dl=0,https://dl.dropboxusercontent.com/s/0mz0qakyms7cryu/ProjectionsofSolids%28Part5.1%291.png?dl=0,https://dl.dropboxusercontent.com/s/pwxx2uru9lkfm5t/ProjectionsofSolids%28Part5.1%292.png?dl=0,https://dl.dropboxusercontent.com/s/clzth4jtpeq5tyz/ProjectionsofSolids%28Part5.1%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/lu8vxf25gclalnn/Projections%20of%20Solids%20%28Part%205.1%29.pdf?dl=0"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2013 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "8376689",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from December 2013 to December 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "19",
+          "imageurl": "https://dl.dropboxusercontent.com/s/alqlxdo45flp7ay/December2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/h2k0p11kub8nsdm/December2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/4qgiqh6coh2za7u/December2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/8or65efw2tquptn/December2013-2018%28P%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1hsJAjZ5mnEuh3IpGhbGxQtFmFC-6Kkhk"
+        },
+        {
+          "name": "May & December 2013 - 2017 (S)",
+          "uploader": "Vidyalankar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "7375619",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes solutions to previous years examinations typically from May 2013 to December 2017.<br><br>Provided by http://vidyalankar.org",
+          "pages": "36",
+          "imageurl": "https://dl.dropboxusercontent.com/s/yb2ldinbsbjdbs3/May%26December2013-2017%28S%290.png?dl=0,https://dl.dropboxusercontent.com/s/9x7jnqepooaa2un/May%26December2013-2017%28S%291.png?dl=0,https://dl.dropboxusercontent.com/s/vuae69u9gs5us8g/May%26December2013-2017%28S%292.png?dl=0,https://dl.dropboxusercontent.com/s/c2xh7ludoovhtbt/May%26December2013-2017%28S%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1Z3Yk92oq_s1bk-_Ueau9m8vFGLnmzyCe"
+        },
+        {
+          "name": "May 2013 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "14736790",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "22",
+          "imageurl": "https://dl.dropboxusercontent.com/s/vm4c9yuojrkpdp3/May2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/hld6kl9o45g7dl5/May2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/0x571i9p6c010g8/May2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/qehjqscgc7duij1/May2013-2018%28P%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1cos71CqTskRIW07WT4Fn6bSvHX3RHBzL"
+        }
+      ],
+      "library": [
+        {
+          "name": "Engineering Drawing (E15)",
+          "uploader": "N. H. Dubey",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "93341238",
+          "dateuploaded": "7th March 2019",
+          "description": "A perfect book for studying Engineering Drawing.<br><br><b>Table of contents:</b><br><i>Basic of Engineering Drawing, Engineering Curves, Concept of Projections, Orthographic Projections, Sectional Orthographic Projections, Isometric Projections, Projections of Points, Projections of Straight Lines, Projections of Planes, Projections of Solids, Sections of Solids, Development of Surfaces, Reading Orthographic  Projections, Introduction to 2-D Drafting & some solved question papers.</i>",
+          "pages": "563",
+          "imageurl": "https://dl.dropboxusercontent.com/s/8e0zjq6g78smh8u/EngineeringDrawing%28E15%290.png?dl=0,https://dl.dropboxusercontent.com/s/umqjykvflbxxsku/EngineeringDrawing%28E15%291.png?dl=0,https://dl.dropboxusercontent.com/s/d2pkoi1ffz117s9/EngineeringDrawing%28E15%292.png?dl=0,https://dl.dropboxusercontent.com/s/l01l1prasteanta/EngineeringDrawing%28E15%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1OrK3u1e3ZDuVqF_6JbarkMNyMRZu0DVw"
+        }
+      ]
+    },
+    {
+      "name": "Environmental Studies",
+      "hex": "#ffe17d01",
+      "image": "https://dl.dropboxusercontent.com/s/jlhuzqeobz389xc/EVS.png?dl=0",
+      "folder": "EVS",
+      "blueprint": [
+        {
+          "name": "Revised Edition 2011-12",
+          "uploader": "Stupidsid",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "458367",
+          "dateuploaded": "2nd February 2019",
+          "description": "Uploaded by Stupidsid",
+          "pages": "1",
+          "imageurl": "https://dl.dropboxusercontent.com/s/voij08sm8x3kvcw/RevisedEdition2011-120.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/3dqf0fztyjj9ulk/Revised%20Edition%202011-12.pdf?dl=0"
+        },
+        {
+          "name": "Revised Edition 2012",
+          "uploader": "Campuskeeda",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "278957",
+          "dateuploaded": "2nd February 2019",
+          "description": "Uploaded by Campuskeeda",
+          "pages": "4",
+          "imageurl": "https://dl.dropboxusercontent.com/s/y8i2obvtsyn278o/RevisedEdition20120.png?dl=0,,,",
+          "link": "https://dl.dropboxusercontent.com/s/insqx0d1z7eykdn/Revised%20Edition%202012.pdf?dl=0"
+        }
+      ],
+      "notes": [
+        {
+          "name": "Complete Notes",
+          "uploader": "Pinnacle Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "8746333",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete notes on <b>Environmental Studies</b>. <i>Its short and precise.</i><br><br>Provided by https://pinnacles.org.in",
+          "pages": "122",
+          "imageurl": "https://dl.dropboxusercontent.com/s/yb36ft128ats70c/CompleteNotes0.png?dl=0,https://dl.dropboxusercontent.com/s/styczt05lq7jcva/CompleteNotes1.png?dl=0,https://dl.dropboxusercontent.com/s/fsb641q6djp5qcz/CompleteNotes2.png?dl=0,https://dl.dropboxusercontent.com/s/0ooygg5y7sxe4ao/CompleteNotes3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1vTMYC3IgXWIpqycs0EsUvVr1I7cJChcN"
+        }
+      ],
+      "library": [
+        {
+          "name": "Environmental Studies",
+          "uploader": "TechMax",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "16499991",
+          "dateuploaded": "6th March 2019",
+          "description": "A book by Prof. Dr. (Mrs) Jayshree A. Parikh and from most common and famous publisher TechMax.<br><br>Provided by https://techmaxebooks.com",
+          "pages": "204",
+          "imageurl": "https://dl.dropboxusercontent.com/s/q1ac31r8oiz3wyj/EnvironmentalStudies0.png?dl=0,https://dl.dropboxusercontent.com/s/ary9cd2v8yk9vjq/EnvironmentalStudies1.png?dl=0,https://dl.dropboxusercontent.com/s/srq3g9js30bz150/EnvironmentalStudies2.png?dl=0,https://dl.dropboxusercontent.com/s/681148mi0egz1ak/EnvironmentalStudies3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1LSUCMW3ZY_jIwm2E1kRJBsPd6Y0bjwEZ"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2016 (PS)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "3980943",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes question paper along with solution to previous year examination December 2016.<br><br>Provided by https://muquestionpapers.com",
+          "pages": "21",
+          "imageurl": "https://dl.dropboxusercontent.com/s/fqt80hsws1k4eqk/December2016%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/rzxfijw5p07e3vv/December2016%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/5x32xgtb74jfy4l/December2016%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/8w68eg7bcmjkty9/December2016%28PS%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/76j915unufxn08y/December%202016%20%28PS%29.pdf?dl=0"
+        },
+        {
+          "name": "December 2017 (PS)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "4289261",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes question paper along with solution to previous year examination December 2017.<br><br>Provided by https://muquestionpapers.com",
+          "pages": "20",
+          "imageurl": "https://dl.dropboxusercontent.com/s/rboohbcktyzo2rh/December2017%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/0z352ieuj3qg1ah/December2017%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/ct4cqcu8ginbbuy/December2017%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/uxt8sh3rd66kzo9/December2017%28PS%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/2df1s7ndy2e49i8/December%202017%20%28PS%29.pdf?dl=0"
+        },
+        {
+          "name": "May 2017 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "906755",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from May 2017 to May 2018.<br><br>Provided by https://muquestionpapers.com",
+          "pages": "3",
+          "imageurl": "https://dl.dropboxusercontent.com/s/mic02ux52spt02r/May2017-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/oa7b544nldpuq23/May2017-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/n63biad6npjzakw/May2017-2018%28P%292.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/wx6s8el1a1usbrt/May%202017-2018%20%28P%29.pdf?dl=0"
+        }
+      ]
+    },
+    {
+      "name": "Math-I",
+      "hex": "#ff00abce",
+      "image": "https://dl.dropboxusercontent.com/s/mm3882sulrd5rt9/math.png?dl=0",
+      "folder": "AppliedMath",
+      "notes": [],
+      "library": [
+        {
+          "name": "Applied Maths - I",
+          "uploader": "G. V. Kumbhojkar",
+          "uploadermail": "tpwork724@gmail.com",
+          "sizebytes": "37834702",
+          "dateuploaded": "17th March 2019",
+          "description": "One of the famous and recommended book for studying Math - I by P. Jamnadas publications.<br><br><b>Table of contents:</b><br><i>Review, Complex Numbers, Hyperbolic Functions, Logarithms of Complex Numbers, Successive Differentiation, Partial Differentiation, Homogenous Functions, Jacobians, Maxima & Minima, Expansion of Functions, Indeterminate Forms, Rank of Matrix, Linear Equations, Solutions of Algbraic and Transcendental Equations, Scilab, Appendix.</i>",
+          "imageurl": "https://dl.dropboxusercontent.com/s/mdgx3e0wtq5rnft/APPLIEDMATHS10.png?dl=0,https://dl.dropboxusercontent.com/s/4f89fpwqc3kbe4m/APPLIEDMATHS11.png?dl=0,https://dl.dropboxusercontent.com/s/zi2ekm8wf1z8gxv/APPLIEDMATHS12.png?dl=0,https://dl.dropboxusercontent.com/s/uwbqlcgx2lf782p/APPLIEDMATHS13.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1yMMx-r9eFZ-sFbxCeYpauO77CnlrU6M5",
+          "pages": "288"
+        }
+      ],
+      "blueprint": [
+        {
+          "name": "Revised Edition 2012",
+          "uploader": "Stupidsid",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "258512",
+          "dateuploaded": "2nd February 2019",
+          "description": "Uploaded by Stupidsid",
+          "pages": "1",
+          "imageurl": "https://dl.dropboxusercontent.com/s/xixqoxe4epqaj8v/RevisedEdition20120.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/nr127vf62pdb8b9/Revised%20Edition%202012.pdf?dl=0"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2016 - 2018 (PS)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "7677903",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes question papers along with its solutions to previous years examinations typically from December 2016 to December 2018.<br><br>Provided by https://muquestionpapers.com",
+          "pages": "76",
+          "imageurl": "https://dl.dropboxusercontent.com/s/4siea3j2o9zu3c5/December2016-2018%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/qz5g7ywo1pjkmv4/December2016-2018%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/9oyy7gphh5pkvlq/December2016-2018%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/awxvo5n78uic3tz/December2016-2018%28PS%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1VUNFiOh9NEnKFRBQHUDGmRcPe90detiu"
+        },
+        {
+          "name": "May 2013 - 2018 (PS)",
+          "uploader": "TCET",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "5655428",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes question papers along with its solutions to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by Thakur College of Engineering - https://www.tcetmumbai.in",
+          "pages": "67",
+          "imageurl": "https://dl.dropboxusercontent.com/s/beklebcpd0s0f84/May2013-2018%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/tf5343kpp5xz9r1/May2013-2018%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/7irt7rue6oiv28j/May2013-2018%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/0v2hhn2ycnoq0zt/May2013-2018%28PS%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/hvbf9gkjs42h2kj/May%202013-2018%20%28PS%29.pdf?dl=0"
+        }
+      ]
+    },
+    {
+      "name": "Math-II",
+      "hex": "#ff583924",
+      "image": "https://dl.dropboxusercontent.com/s/mdqwmu6uvdl1o9o/math1.png?dl=0",
+      "folder": "AppliedMath2",
+      "blueprint": [
+        {
+          "name": "Revised Edition 2011-12",
+          "uploader": "Campuskeeda",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "215530",
+          "dateuploaded": "3rd March 2019",
+          "description": "Uploaded by Campuskeeda",
+          "pages": "3",
+          "imageurl": "https://dl.dropboxusercontent.com/s/k8z8u0tadphayam/RevisedEdition2011-120.png?dl=0,https://dl.dropboxusercontent.com/s/scvddgnwtyr9t64/RevisedEdition2011-121.png?dl=0,https://dl.dropboxusercontent.com/s/7rozropd4e11ay1/RevisedEdition2011-122.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/hx84fxu5f53ny0f/Revised%20Edition%202011-12.pdf?dl=0"
+        }
+      ],
+      "notes": [
+        {
+          "name": "Formula List",
+          "uploader": "Anonymous",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "8305101",
+          "dateuploaded": "7th March 2019",
+          "description": "A complete formula list to all chapters in <b>Applied Maths - II</b>",
+          "pages": "25",
+          "imageurl": "https://dl.dropboxusercontent.com/s/62vjfvba8d1mfis/FormulaList0.png?dl=0,https://dl.dropboxusercontent.com/s/lzvx2psz09jroyl/FormulaList1.png?dl=0,https://dl.dropboxusercontent.com/s/eno7dqs08qg9dd9/FormulaList2.png?dl=0,https://dl.dropboxusercontent.com/s/konjbx1ifh7i3r7/FormulaList3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1InwbL3vu4MLIKWyhi1TQhzyAjCiM9eDA"
+        }
+      ],
+      "library": [
+        {
+          "name": "Applied Maths - II",
+          "uploader": "G. V. Kumbhojkar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "41518379",
+          "dateuploaded": "15th March 2019",
+          "description": "One of the famous and recommended book for studying Math - II by P. Jamnadas publications.<br><br><b>Table of contents:</b><br><i>Differential Equations of First Order and First Degree, Applications of Differential Equations, Linear Differential Equations with Constant Coefficients, Cauchys Homogenous Linear Differential Equations, Numerical Solutions of Ordinary Differential Equations, Beta & Gamma Functions, Differentiation Under Integral Sign, Rectification, Double Integral, Area, Mass of a Lamina, Triple Integral, Volumes of Solids, Numerical Integration.</i>",
+          "pages": "274",
+          "imageurl": "https://dl.dropboxusercontent.com/s/j4upii4zm51iqh8/AppliedMaths-II0.png?dl=0,https://dl.dropboxusercontent.com/s/957tffcvwbet1xl/AppliedMaths-II1.png?dl=0,https://dl.dropboxusercontent.com/s/ro3f4g6yeaeaeu2/AppliedMaths-II2.png?dl=0,https://dl.dropboxusercontent.com/s/nwte8rimwykmaet/AppliedMaths-II3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1bq893qSuV6jgSeCds6E0kQKLNBRLTXVN"
+        },
+        {
+          "name": "Companion to Applied Maths - II",
+          "uploader": "G. V. Kumbhojkar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "27833483",
+          "dateuploaded": "7th March 2019",
+          "description": "A companion to G. V. Kumbjokar which contains solutions to its exercise problems by P. Jamnadas publications.<br><br><b>Table of contents:</b><br><i>Differential Equations of First Order and First Degree, Applications of Differential Equations, Linear Differential Equations with Constant Coefficients, Cauchys Homogenous Linear Differential Equations, Numerical Solutions of Ordinary Differential Equations, Beta & Gamma Functions, Differentiation Under Integral Sign, Rectification, Double Integral, Area, Mass of a Lamina, Triple Integral, Volumes of Solids, Numerical Integration.</i>",
+          "pages": "114",
+          "imageurl": "https://dl.dropboxusercontent.com/s/g2iozu5z626zusb/CompaniontoAppliedMaths-II0.png?dl=0,https://dl.dropboxusercontent.com/s/sws6jcisgn2jkjq/CompaniontoAppliedMaths-II1.png?dl=0,https://dl.dropboxusercontent.com/s/3432aoukfio87ws/CompaniontoAppliedMaths-II2.png?dl=0,https://dl.dropboxusercontent.com/s/1t21zazpwnmbad1/CompaniontoAppliedMaths-II3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1njA1M87BvxttvN8GPlxuNlEXiEC_46d_"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2013 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "5072569",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from December 2013 to December 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "12",
+          "imageurl": "https://dl.dropboxusercontent.com/s/4544fnjtmdwjq04/December2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/5x2709inseh6m10/December2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/ytj2yy13x61y9pm/December2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/b3y9f7mayq919c9/December2013-2018%28P%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/sq2gry7lxkm0fd2/December%202013%20-%202018%20%28P%29.pdf?dl=0"
+        },
+        {
+          "name": "May & December 2013 - 2017 (S)",
+          "uploader": "Vidyalankar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "15990423",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes solutions to previous years examinations typically from May 2013 to December 2017.<br><br>Provided by http://vidyalankar.org",
+          "pages": "81",
+          "imageurl": "https://dl.dropboxusercontent.com/s/v72tjjnindq2xrf/May%26December2013-2017%28S%290.png?dl=0,https://dl.dropboxusercontent.com/s/tzroaczif62k6lo/May%26December2013-2017%28S%291.png?dl=0,https://dl.dropboxusercontent.com/s/iibyqy173nb3mgf/May%26December2013-2017%28S%292.png?dl=0,https://dl.dropboxusercontent.com/s/xvhh4iccaefs04i/May%26December2013-2017%28S%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1pJMRYUhDSQAWZ4nm7iS6_FMCLpTC8Akx"
+        },
+        {
+          "name": "May & December 2017 - 2018 (S)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "7978422",
+          "dateuploaded": "8th May 2019",
+          "pages": "79",
+          "description": "The document includes solutions to previous years examinations typically from May 2017 to December 2018.<br><br>Provided by http://muquestionpapers.com",
+          "imageurl": "https://dl.dropboxusercontent.com/s/74ioqinycz9cggo/May%26December2017-2018%28S%290.png?dl=0,https://dl.dropboxusercontent.com/s/fzyeoyp8mclry21/May%26December2017-2018%28S%291.png?dl=0,https://dl.dropboxusercontent.com/s/qbtfsvdryrr5w8r/May%26December2017-2018%28S%292.png?dl=0,https://dl.dropboxusercontent.com/s/sh31itnk0y7hgq9/May%26December2017-2018%28S%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1Qr3UeS4OA0W02ST7V-st0k0v3mxotBlJ"
+        },
+        {
+          "name": "May 2013 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "8635786",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "12",
+          "imageurl": "https://dl.dropboxusercontent.com/s/2k7k7juh6cswudl/May2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/wmwzqstgme4jq7m/May2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/krw8kgl5ra84fgf/May2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/vr4qb9ekrnbobjl/May2013-2018%28P%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1RXzZFWcCNnSqJE0VuJ8G-rOzSdnWJswJ"
+        }
+      ]
+    },
+    {
+      "name": "Mechanics",
+      "hex": "#ff9a27ae",
+      "image": "https://dl.dropboxusercontent.com/s/iyk2s8hhjt766bg/mechanics.png?dl=0",
+      "folder": "Mechanics",
+      "blueprint": [
+        {
+          "name": "Revised Edition 2007-12",
+          "uploader": "Campuskeeda",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "187231",
+          "dateuploaded": "2nd February 2019",
+          "description": "Uploaded by Campuskeeda",
+          "pages": "1",
+          "imageurl": "https://dl.dropboxusercontent.com/s/q3q26q1bbx4j9p6/RevisedEdition2007-120.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/w05kuo3lhhlneyk/Revised%20Edition%202007-12.pdf?dl=0"
+        },
+        {
+          "name": "Revised Edition 2012",
+          "uploader": "Stupidsid",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "689964",
+          "dateuploaded": "2nd February 2019",
+          "description": "Uploaded by Stupidsid",
+          "pages": "2",
+          "imageurl": "https://dl.dropboxusercontent.com/s/frksywythnpgnmj/RevisedEdition20120.png?dl=0,",
+          "link": "https://dl.dropboxusercontent.com/s/uyuvsdyomqw9upg/Revised%20Edition%202012.pdf?dl=0"
+        }
+      ],
+      "notes": [
+        {
+          "name": "Complete Notes",
+          "uploader": "Anonymous",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "15313600",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete notes for <b>Mechanics</b> containing all important theory and concepts.",
+          "pages": "16",
+          "imageurl": "https://dl.dropboxusercontent.com/s/f1z5relm8zn59zt/CompleteNotes0.png?dl=0,https://dl.dropboxusercontent.com/s/b6lz9sg7w3bdv8v/CompleteNotes1.png?dl=0,https://dl.dropboxusercontent.com/s/6gtco94l2w19284/CompleteNotes2.png?dl=0,https://dl.dropboxusercontent.com/s/8r4tlptgftes88o/CompleteNotes3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=172wEPEm4qOgJsvQOoeMfL6Z06sunbkb7"
+        },
+        {
+          "name": "Formula List & Tips",
+          "uploader": "Anonymous",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "3353168",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes formula list and question types that might come in examination for all chapters in <b>Mechanics</b>.",
+          "pages": "15",
+          "imageurl": "https://dl.dropboxusercontent.com/s/41ufgjz8yvpmhhv/FormulaList%26Tips0.png?dl=0,https://dl.dropboxusercontent.com/s/23ls4xv3sh9dtid/FormulaList%26Tips1.png?dl=0,https://dl.dropboxusercontent.com/s/726w8ga7eib4kvt/FormulaList%26Tips2.png?dl=0,https://dl.dropboxusercontent.com/s/n027vuoap0ybiq5/FormulaList%26Tips3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/4ynvbdurpi78avx/Formula%20List%20%26%20Tips.pdf?dl=0"
+        },
+        {
+          "name": "Viva Questions",
+          "uploader": "Vidyalankar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "562223",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes most asked theory viva questions for <b>Mechanics</b>.<br><br>Provided by http://vidyalankar.org",
+          "pages": "8",
+          "imageurl": "https://dl.dropboxusercontent.com/s/wjxy4huoatzim75/VivaQuestions0.png?dl=0,https://dl.dropboxusercontent.com/s/q0ii87d6yx0kj4z/VivaQuestions1.png?dl=0,https://dl.dropboxusercontent.com/s/d0spdkmqg9wu8or/VivaQuestions2.png?dl=0,https://dl.dropboxusercontent.com/s/ecya1poh694a7f7/VivaQuestions3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/rqlx614it9y23pz/Viva%20Questions.pdf?dl=0"
+        },
+        {
+          "name": "Viva Questions 2",
+          "uploader": "Mumbai University",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "13938356",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes most asked theory viva questions for <b>Mechanics</b>.<br><br>Provided by http://mu.ac.in",
+          "pages": "30",
+          "imageurl": "https://dl.dropboxusercontent.com/s/z065kh7jahxyh96/VivaQuestions20.png?dl=0,https://dl.dropboxusercontent.com/s/po5gjjs9kvg25y0/VivaQuestions21.png?dl=0,https://dl.dropboxusercontent.com/s/ppum6q0yz7yg0k1/VivaQuestions22.png?dl=0,https://dl.dropboxusercontent.com/s/u31n99j62kjb48y/VivaQuestions23.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1ut2H2h5qWDWGSHmfLAse6cDSFvXyZkQ5"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2016 - 2018 (PS)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "17885181",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes solutions to previous years examinations typically from December 2016 to December 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "126",
+          "imageurl": "https://dl.dropboxusercontent.com/s/mtdkebixv6yvykg/December2016-2018%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/a2ydmqtobhu3iq1/December2016-2018%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/9ji0i11gda9jvg0/December2016-2018%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/4ce5qsm6wc0vsur/December2016-2018%28PS%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=10Nd-ddL3AiatploIhHKVCEMBX44VPulu"
+        },
+        {
+          "name": "May & December 2012 - 2016 (S)",
+          "uploader": "Vidyalankar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "25070187",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes solutions to previous years examinations typically from December 2012 to May 2016.<br><br>Provided by http://vidyalankar.org",
+          "pages": "141",
+          "imageurl": "https://dl.dropboxusercontent.com/s/d0xr4bf7rviryvo/May%26December2012-2016%28S%290.png?dl=0,https://dl.dropboxusercontent.com/s/w0vvoje7jkfalf6/May%26December2012-2016%28S%291.png?dl=0,https://dl.dropboxusercontent.com/s/kb029hdyu7ertjs/May%26December2012-2016%28S%292.png?dl=0,https://dl.dropboxusercontent.com/s/q6jry0w2nqjkvr8/May%26December2012-2016%28S%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1IyPpzt7ecY3wKFoIS_f_s95nG93m_uuv"
+        },
+        {
+          "name": "May 2013 - 2018 (PS)",
+          "uploader": "TCET",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "8825987",
+          "dateuploaded": "6th March 2019",
+          "description": "The document includes question papers along with its solutions to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by Thakur College of Engineering - https://www.tcetmumbai.in",
+          "pages": "107",
+          "imageurl": "https://dl.dropboxusercontent.com/s/l8gsm5co6g98uu9/May2013-2018%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/gtuegyst6ife0vf/May2013-2018%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/ds70jtrtc1huce8/May2013-2018%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/lihanctl25bzt8x/May2013-2018%28PS%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1l5nIIllivuWdg_SDAtn1gy7QNkL9HBBO"
+        }
+      ],
+      "library": [
+        {
+          "name": "Engineering Mechanics (E12)",
+          "uploader": "M. D. Dayal",
+          "uploadermail": "tpwork724@gmail.com",
+          "sizebytes": "28200996",
+          "dateuploaded": "26th March 2019",
+          "description": "The most recommended book for studying Mechanics.<br><br><b>Table of contents:</b><br><i>Introduction, Colpanar Forces, Colpanar Forces-Equilibrium, Friction, Truss, Centroid & Center of Gravity, Space Forces, Virtual Work, Introduction to Dynamics & Kinematics of Particles, Kinetics - Newton Second Law, Kinetics - Work Energy Method, Kinetics - Impulse Momentum Method, Kinematics of Rigid Bodies, Appendix.</i>",
+          "pages": "216",
+          "imageurl": "https://dl.dropboxusercontent.com/s/rap2tzegh7fo9dz/EngineeringMechanics%28E12%290.png?dl=0,https://dl.dropboxusercontent.com/s/jurirnba5thazfv/EngineeringMechanics%28E12%291.png?dl=0,https://dl.dropboxusercontent.com/s/4lh92g1pavgnfwh/EngineeringMechanics%28E12%292.png?dl=0,https://dl.dropboxusercontent.com/s/vd5l8jikn9vr1v3/EngineeringMechanics%28E12%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1iYBOZZGMqTjgB3Axo8FPpi5AvIUFpAht"
+        },
+        {
+          "name": "Solutions to M. D. Dayal",
+          "uploader": "M. D. Dayal",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "43322768",
+          "dateuploaded": "6th March 2019",
+          "description": "A complete solution to unsolved problems in M. D. Dayal.<br><br><b>Table of contents:</b><br><i>Resultant of Coplanar Forces, Equilibrium, Friction, Truss, Centroid, Space Forces, Virtual Work, Kinematics of Particles, Newton Second Law (NSL), Work Energy Principle, Impulse Momentum Principle, Kinematics of Rigid Body (ICR)</i>",
+          "pages": "432",
+          "imageurl": "https://dl.dropboxusercontent.com/s/jldd2mn3g8p274k/SolutionstoM.D.Dayal0.png?dl=0,https://dl.dropboxusercontent.com/s/mtz9mixj6lxeh0l/SolutionstoM.D.Dayal1.png?dl=0,https://dl.dropboxusercontent.com/s/bnmw5rqjaa20md0/SolutionstoM.D.Dayal2.png?dl=0,https://dl.dropboxusercontent.com/s/0u8vb0h0373b6ml/SolutionstoM.D.Dayal3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=13XvGMpC8n3UbJz_P_HMXaj95qSHHIfTW"
+        }
+      ]
+    },
+    {
+      "name": "Physics-I",
+      "hex": "#ffc9337c",
+      "image": "https://dl.dropboxusercontent.com/s/9p3m1kkoagg0q4z/physics.png?dl=0",
+      "folder": "AppliedPhysics",
+      "blueprint": [
+        {
+          "name": "Revised Edition 2012",
+          "uploader": "Stupidsid",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "286372",
+          "dateuploaded": "2nd February 2019",
+          "description": "Uploaded by Stupidsid",
+          "pages": "3",
+          "imageurl": "https://dl.dropboxusercontent.com/s/wceimpzb5wkj5nz/RevisedEdition20120.png?dl=0,,",
+          "link": "https://dl.dropboxusercontent.com/s/jijz1vsthk96akv/Revised%20Edition%202012.pdf?dl=0"
+        }
+      ],
+      "notes": [
+        {
+          "name": "Acoustic",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "228389",
+          "dateuploaded": "5th March 2019",
+          "description": "The document is to the point containing theory question and answers including solved numericals for chapter Acoustic.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "8",
+          "imageurl": "https://dl.dropboxusercontent.com/s/mxl08igb0j0eoqm/Acoustic0.png?dl=0,https://dl.dropboxusercontent.com/s/2jnz3zoxxy26m6e/Acoustic1.png?dl=0,https://dl.dropboxusercontent.com/s/85g4tuj1xxkt9ge/Acoustic2.png?dl=0,https://dl.dropboxusercontent.com/s/fsp0iyw02k3433h/Acoustic3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/x52y6h7mxk3k567/Acoustic.pdf?dl=0"
+        },
+        {
+          "name": "Crystal Structure",
+          "uploader": "NPTEL",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "2436024",
+          "dateuploaded": "5th March 2019",
+          "description": "Crystal Structure is one of the important chapters in Applied Physics I.<br>This PDF contains a lot of information including some numericals.<br><br>Provided by https://nptel.ac.in",
+          "pages": "66",
+          "imageurl": "https://dl.dropboxusercontent.com/s/x44wgemzm6ielev/CrystalStructure0.png?dl=0,https://dl.dropboxusercontent.com/s/0actl62qvgb5mzu/CrystalStructure1.png?dl=0,https://dl.dropboxusercontent.com/s/rue5xhednzyhuk8/CrystalStructure2.png?dl=0,https://dl.dropboxusercontent.com/s/lysjvekfpupcblu/CrystalStructure3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/78lsqhwx09wwjx2/Crystal%20Structure.pdf?dl=0"
+        },
+        {
+          "name": "Pinnacle Notes",
+          "uploader": "Pinnacle Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "1735253",
+          "dateuploaded": "5th March 2019",
+          "description": "A complete notes for all chapters in Applied Physics-I. The document includes theory questions and answers along with numericals.<br><br>Provided by http://pinnacles.org.in/",
+          "pages": "72",
+          "imageurl": "https://dl.dropboxusercontent.com/s/olbhgz1le1jkf6y/PinnacleNotes0.png?dl=0,https://dl.dropboxusercontent.com/s/gj5ujgc9dy8221v/PinnacleNotes1.png?dl=0,https://dl.dropboxusercontent.com/s/p41r7xbdznrlqcf/PinnacleNotes2.png?dl=0,https://dl.dropboxusercontent.com/s/tx9vduc0tfqjxmr/PinnacleNotes3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/13oh9xwbe9mzsf0/Pinnacle%20Notes.pdf?dl=0"
+        },
+        {
+          "name": "Quantum Mechanics",
+          "uploader": "NPTEL",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "2078089",
+          "dateuploaded": "5th March 2019",
+          "description": "Quantum Mechanics is one of the important chapters in Applied Physics I.<br>This PDF contains a lot of information starting from very basic stuff itself.<br><br>Provided by https://nptel.ac.in",
+          "pages": "48",
+          "imageurl": "https://dl.dropboxusercontent.com/s/8r4msyo685icl24/QuantumMechanics0.png?dl=0,https://dl.dropboxusercontent.com/s/r594ts5khuyvrlc/QuantumMechanics1.png?dl=0,https://dl.dropboxusercontent.com/s/q7uimd7c807wb0q/QuantumMechanics2.png?dl=0,https://dl.dropboxusercontent.com/s/ptzfcyzy8oa6ukr/QuantumMechanics3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/t02jpjlb2evdffe/Quantum%20Mechanics.pdf?dl=0"
+        },
+        {
+          "name": "Semiconductor Physics",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "342465",
+          "dateuploaded": "5th March 2019",
+          "description": "This study resource contains almost all theory questions and numericals from chapter Semiconductor. Thoery answers are precise and to the point.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "17",
+          "imageurl": "https://dl.dropboxusercontent.com/s/3ci8sktbe5u29wr/SemiconductorPhysics0.png?dl=0,https://dl.dropboxusercontent.com/s/a7vufxzob4vq71n/SemiconductorPhysics1.png?dl=0,https://dl.dropboxusercontent.com/s/x187ltq3fs6k53b/SemiconductorPhysics2.png?dl=0,https://dl.dropboxusercontent.com/s/qpq76nl595u1h4i/SemiconductorPhysics3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/pjprxeey6b1fb34/Semiconductor%20Physics.pdf?dl=0"
+        },
+        {
+          "name": "Superconductivity",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "266596",
+          "dateuploaded": "5th March 2019",
+          "description": "This study resource contains almost all theory questions and numericals from chapter Superconductivity. Thoery answers are precise and to the point.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "9",
+          "imageurl": "https://dl.dropboxusercontent.com/s/7ejj9cj53a3tmyh/Superconductivity0.png?dl=0,https://dl.dropboxusercontent.com/s/at8rt0xji02hr0g/Superconductivity1.png?dl=0,https://dl.dropboxusercontent.com/s/8sj07h8j2kt6h3w/Superconductivity2.png?dl=0,https://dl.dropboxusercontent.com/s/mt63g08igw2gzkm/Superconductivity3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/rovha9ml0nxqzu3/Superconductivity.pdf?dl=0"
+        },
+        {
+          "name": "Superconductivity 2",
+          "uploader": "Santosh Mani",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "7370285",
+          "dateuploaded": "5th March 2019",
+          "description": "A chapter made for scoring in Engineering. This document contains theory which is perfect and some solved numericals.<br><br>Provided by Santosh Sir",
+          "pages": "9",
+          "imageurl": ",,,",
+          "link": "https://drive.google.com/uc?export=download&id=1RJg9An_wA4Dl3RiZD-LAYi-RfK1hEBmR"
+        },
+        {
+          "name": "Ultrasonics",
+          "uploader": "Set Square Academy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "307914",
+          "dateuploaded": "5th March 2019",
+          "description": "The document is to the point containing theory question and answers including solved numericals for chapter Ultrasonic.<br><br>Provided by http://setsquareacademy.com",
+          "pages": "12",
+          "imageurl": "https://dl.dropboxusercontent.com/s/y94s6gskzftxdsx/Ultrasonics0.png?dl=0,https://dl.dropboxusercontent.com/s/9y8qy665xms7u43/Ultrasonics1.png?dl=0,https://dl.dropboxusercontent.com/s/ohmbt1ridkjn7bw/Ultrasonics2.png?dl=0,https://dl.dropboxusercontent.com/s/teowgjh2t0gqk9j/Ultrasonics3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/nivi21mvnmuqvnx/Ultrasonics.pdf?dl=0"
+        }
+      ],
+      "library": [
+        {
+          "name": "Applied Physics - I",
+          "uploader": "TechMax",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "49398737",
+          "dateuploaded": "5th March 2019",
+          "description": "A book by Dr. I. A. Shaikh and from most common and famous publications TechMax.<br><br>Provided by https://techmaxbooks.com",
+          "pages": "254",
+          "imageurl": "https://dl.dropboxusercontent.com/s/qyay1ar1xsf8mqf/AppliedPhysics-I0.png?dl=0,https://dl.dropboxusercontent.com/s/5ofwv49n3qylzp9/AppliedPhysics-I1.png?dl=0,https://dl.dropboxusercontent.com/s/in0yw51frnu3c0l/AppliedPhysics-I2.png?dl=0,https://dl.dropboxusercontent.com/s/l9vpcr40xlqkk6s/AppliedPhysics-I3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1U6Z8ZipTZDdec4_N_CTt7h6G6fiCMcs7"
+        },
+        {
+          "name": "Concepts of Modern Physics (E2)",
+          "uploader": "Arthur Beiser",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "42910615",
+          "dateuploaded": "5th March 2019",
+          "description": "Modern Physics is the most up-to-date, accessible presentation of modern physics available. The book is intended to be used in a one-semester course covering modern physics for students who have already had basic physics and calculus courses. The balance of the book leans more toward ideas than toward experimental methods and practical applications because the beginning student is better served by a conceptual framework than by a mass of details. The sequence of topics follows a logical, rather than strictly historical, order. Relativity and quantum ideas are considered first to provide a framework for understanding the physics of atoms and nuclei. The theory of the atom is then developed, and followed by a discussion of the properties of aggregates of atoms, which includes a look at statistical mechanics. Finally atomic nuclei and elementary particles are examined.<br><br>Provided by McGraw-Hill Education - https://www.mheducation.com/",
+          "pages": "242",
+          "imageurl": "https://dl.dropboxusercontent.com/s/4j9o8xjan0cdea9/ConceptsofModernPhysics%28E2%290.png?dl=0,https://dl.dropboxusercontent.com/s/g5uo0484zf8w4f7/ConceptsofModernPhysics%28E2%291.png?dl=0,https://dl.dropboxusercontent.com/s/fq6bksa3vmdhdz7/ConceptsofModernPhysics%28E2%292.png?dl=0,https://dl.dropboxusercontent.com/s/khuzcu3etqv8n17/ConceptsofModernPhysics%28E2%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1UWlk91iOXQW0ooMLh4D0nL192vveVida"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2016 - 2017 (PS)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "6077983",
+          "dateuploaded": "5th March 2019",
+          "description": "The document includes question papers along with its solutions to previous years examinations typically December 2016 and 2017.<br><br>Provided by https://muquestionpapers.com",
+          "pages": "36",
+          "imageurl": "https://dl.dropboxusercontent.com/s/micnhy043nxvmxk/December2016-17%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/sy2xvxymzk895hg/December2016-17%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/xgr23jfj8d3cwx1/December2016-17%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/aifxdieuzz4sddf/December2016-17%28PS%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/nl5ot776yykz4lh/December%202016-17%20%28PS%29.pdf?dl=0"
+        },
+        {
+          "name": "December 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "808130",
+          "dateuploaded": "5th March 2019",
+          "description": "The document includes question paper to previous years examination typically December 2018.<br><br>Provided by https://muquestionpapers.com",
+          "pages": "1",
+          "imageurl": "https://dl.dropboxusercontent.com/s/a757w4d6j1sgg5h/December2018%28P%290.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/955mankn8c07fbu/December%202018%20%28P%29.pdf?dl=0"
+        },
+        {
+          "name": "May 2013 - 2018 (PS)",
+          "uploader": "TCET",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "7971215",
+          "dateuploaded": "5th March 2019",
+          "description": "The document includes question papers along with its solutions to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by Thakur College of Engineering - https://www.tcetmumbai.in",
+          "pages": "116",
+          "imageurl": "https://dl.dropboxusercontent.com/s/vae0n85mpemgkfq/May2013-2018%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/10jfm8k8s06j57o/May2013-2018%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/pe2h40xgj4bc5yv/May2013-2018%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/7h98zxp8eaj0afi/May2013-2018%28PS%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1qbp_HcuiJ7TFr5diCgD0kN8RHx_a1SYT"
+        }
+      ]
+    },
+    {
+      "name": "Physics-II",
+      "hex": "#ff4eca87",
+      "image": "https://dl.dropboxusercontent.com/s/4k1msta0oghyk6y/physics1.png?dl=0",
+      "folder": "AppliedPhysics2",
+      "blueprint": [
+        {
+          "name": "Revised Edition 2011-12",
+          "uploader": "Campuskeeda",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "360668",
+          "dateuploaded": "3rd March 2019",
+          "description": "Uploaded by Campuskeeda",
+          "pages": "4",
+          "imageurl": "https://dl.dropboxusercontent.com/s/8tt3pop1j5h8eun/RevisedEdition2011-120.png?dl=0,https://dl.dropboxusercontent.com/s/qm6ar8h79kl8x2p/RevisedEdition2011-121.png?dl=0,https://dl.dropboxusercontent.com/s/lo3y4gzxm3ndvnk/RevisedEdition2011-122.png?dl=0,https://dl.dropboxusercontent.com/s/i8yf53uvrxv1zt9/RevisedEdition2011-123.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/iairpgezrzssrxl/Revised%20Edition%202011-12.pdf?dl=0"
+        }
+      ],
+      "notes": [
+        {
+          "name": "Complete Notes",
+          "uploader": "Dr. I. A. Shaikh",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "6960136",
+          "dateuploaded": "7th March 2019",
+          "description": "A complete notes to all chapters of <b>Applied Physics - II</b> in Q&A format.<br><br>Provided by https://brainheaters.in",
+          "pages": "188",
+          "imageurl": "https://dl.dropboxusercontent.com/s/ka02kqajaoa4tzj/CompleteNotes0.png?dl=0,https://dl.dropboxusercontent.com/s/rgz7389nxcylx76/CompleteNotes1.png?dl=0,https://dl.dropboxusercontent.com/s/4o5tuvp68rf5k1m/CompleteNotes2.png?dl=0,https://dl.dropboxusercontent.com/s/v4dctqs1br9qzll/CompleteNotes3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1mGgkZQbBbH3gFe3bJ3LvJWVDceR4OHUa"
+        }
+      ],
+      "library": [
+        {
+          "name": "Applied Physics - II",
+          "uploader": "TechMax",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "26753029",
+          "dateuploaded": "7th March 2019",
+          "description": "A book by Dr. I. A. Shaikh and from most common and famous publisher TechMax.<br><br>Provided by https://techmaxebooks.com",
+          "pages": "162",
+          "imageurl": "https://dl.dropboxusercontent.com/s/asnodnts6v87w6b/AppliedPhysics-II0.png?dl=0,https://dl.dropboxusercontent.com/s/l2380gvts6wjg4n/AppliedPhysics-II1.png?dl=0,https://dl.dropboxusercontent.com/s/14v133gs1lw5lpg/AppliedPhysics-II2.png?dl=0,https://dl.dropboxusercontent.com/s/n0oer9txlye2j2a/AppliedPhysics-II3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=138GohmDpCWHMqS1hQ-Sv6MQlGSTI1gNJ"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2013 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "5441192",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from December 2013 to December 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "10",
+          "imageurl": "https://dl.dropboxusercontent.com/s/zdr2xs7cvw761rb/December2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/httjfyrsia0jdp4/December2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/xks8unjait8j1h6/December2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/v9prl3e8p6gc5k2/December2013-2018%28P%293.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/1c0cw0hultqtxnd/December%202013%20-%202018%20%28P%29.pdf?dl=0"
+        },
+        {
+          "name": "May & December 2013 - 2017 (S)",
+          "uploader": "Vidyalankar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "44064385",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes solutions to previous years examinations typically from May 2013 to December 2017.<br><br>Provided by http://vidyalankar.org",
+          "pages": "84",
+          "imageurl": "https://dl.dropboxusercontent.com/s/rpdfmjlrfdeijag/May%26December2013-2017%28S%290.png?dl=0,https://dl.dropboxusercontent.com/s/97056dwmycjue36/May%26December2013-2017%28S%291.png?dl=0,https://dl.dropboxusercontent.com/s/ged6fpbg3e21w6o/May%26December2013-2017%28S%292.png?dl=0,https://dl.dropboxusercontent.com/s/41w7401b7pw3ghv/May%26December2013-2017%28S%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1r6nvXbvK1agqLJh-1eAFI3j_6oXSyhPP"
+        },
+        {
+          "name": "May & December 2017 - 2018 (PS)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "9278593",
+          "dateuploaded": "10th May 2019",
+		  "pages":"84",
+          "description": "The document includes solutions to previous years examinations typically from May 2017 to December 2018.<br><br>Provided by http://muquestionpapers.com",
+          "imageurl": "https://dl.dropboxusercontent.com/s/6itci4rfsdgdvtn/May%26December2017-2018%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/p65n4qbvwt1tpfc/May%26December2017-2018%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/kgsm45j3az0g3xi/May%26December2017-2018%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/ndso03beo6kc3z6/May%26December2017-2018%28PS%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=12wJfEzSPr3SjUp3w2iP3TWWNVo1YCEtS"
+        },
+        {
+          "name": "May & December 2017 (PS)",
+          "uploader": "Easy Solutions",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "17909425",
+          "dateuploaded": "7th March 2019",
+          "description": "A book by TechMax, published by Easy Solutions contains solutions to recent examinations <b>May 2017</b> & <b>December 2017</b> with proper marking scheme and chapterwise solutions.",
+          "pages": "30",
+          "imageurl": "https://dl.dropboxusercontent.com/s/113d0jklcerrzez/May%26December2017%28PS%290.png?dl=0,https://dl.dropboxusercontent.com/s/58qqgaq0vitf1e4/May%26December2017%28PS%291.png?dl=0,https://dl.dropboxusercontent.com/s/m49p8f4gwobuz48/May%26December2017%28PS%292.png?dl=0,https://dl.dropboxusercontent.com/s/t709lkjh7crt8z2/May%26December2017%28PS%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=10qvv4rqSih5AUCN1yV5WtEyvYIvSM7BL"
+        },
+        {
+          "name": "May 2013 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "9020605",
+          "dateuploaded": "7th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "11",
+          "imageurl": "https://dl.dropboxusercontent.com/s/nyewpo77bndkbuy/May2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/2v3umbdsr1jtocu/May2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/e8ll57etpan63m0/May2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/fv75lymyv0ery2a/May2013-2018%28P%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1uA0ViedDKkfa2bAdipcF4Atr-4fFib2r"
+        }
+      ]
+    },
+    {
+      "name": "Structured Programming",
+      "hex": "#ffdf1e74",
+      "image": "https://dl.dropboxusercontent.com/s/tc0lqz2ui4thchp/SPA.png?dl=0",
+      "folder": "SPA",
+      "blueprint": [
+        {
+          "name": "Revised Edition 2012",
+          "uploader": "Stupidsid",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "394679",
+          "dateuploaded": "3rd April 2019",
+          "description": "Uploaded by Stupidsid",
+          "pages": "2",
+          "imageurl": "https://dl.dropboxusercontent.com/s/9soq3nycynfa9wg/RevisedEdition20120.png?dl=0,https://dl.dropboxusercontent.com/s/dn1nvywusspnma0/RevisedEdition20121.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/qsfmcz0k2abxuuy/Revised%20Edition%202012.pdf?dl=0"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2013 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "7358496",
+          "dateuploaded": "8th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from December 2013 to December 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "10",
+          "imageurl": "https://dl.dropboxusercontent.com/s/w09z60uxw6ampx9/December2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/0ks052af76h2gpm/December2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/e6zixoa9gxbwwod/December2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/fzs25vtn4ixs1jl/December2013-2018%28P%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1XLPgDWgmgnXzR7Un4N86AGWlJnVP9UbV"
+        },
+        {
+          "name": "May & December 2013 - 2017 (S)",
+          "uploader": "Vidyalankar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "27503765",
+          "dateuploaded": "8th March 2019",
+          "description": "The document includes solutions to previous years examinations typically from May 2013 to December 2017.<br><br>Provided by http://vidyalankar.org",
+          "pages": "85",
+          "imageurl": "https://dl.dropboxusercontent.com/s/g0eavdfq0wi9jri/May%26December2013-2017%28S%290.png?dl=0,https://dl.dropboxusercontent.com/s/zlpnw2cxz0tkfd0/May%26December2013-2017%28S%291.png?dl=0,https://dl.dropboxusercontent.com/s/b2br35ub5p9fbyu/May%26December2013-2017%28S%292.png?dl=0,https://dl.dropboxusercontent.com/s/yra5hz63nltd4e4/May%26December2013-2017%28S%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1Go3W2rnNYXkn_bQOAwo8RIHAicfvTwsO"
+        },
+        {
+          "name": "May 2013 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "8483806",
+          "dateuploaded": "8th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "14",
+          "imageurl": "https://dl.dropboxusercontent.com/s/34c9wdproyjnnr1/May2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/m2k2orjc8eypzji/May2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/v9l7hvd9y40bg2z/May2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/7zwbxs65m7ngpwu/May2013-2018%28P%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1vxaQFn1QT7AfgvCtJfGLf6FP2YgHikYu"
+        }
+      ],
+      "notes": [
+        {
+          "name": "40 Programs Solution",
+          "uploader": "MHSSCE",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "157682",
+          "dateuploaded": "8th March 2019",
+          "description": "A book by Prof. Ahlam Ansari from <b>M.H. Saboo Siddik College of Engineering</b>. <i>The document contains solutions to 40 common and basic SPA programs. This does not include pattern related programs.</i><br><br>Provided by https://mhssce.ac.in",
+          "pages": "26",
+          "imageurl": "https://dl.dropboxusercontent.com/s/4vsk03k29k5jnmv/40ProgramsSolution0.png?dl=0,https://dl.dropboxusercontent.com/s/2vjowm82ofqyzhw/40ProgramsSolution1.png?dl=0,https://dl.dropboxusercontent.com/s/65qnlxgn15966jy/40ProgramsSolution2.png?dl=0,https://dl.dropboxusercontent.com/s/zgs8l7evrjuq49p/40ProgramsSolution3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/bwj07giin2dh62g/40%20Programs%20Solution.pdf?dl=0"
+        },
+        {
+          "name": "50 Programs Solution",
+          "uploader": "Prof. Syed Amer",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "116489",
+          "dateuploaded": "8th March 2019",
+          "description": "A complete list of 50 simple and basic programs of <b>SPA</b> from Anjuman-I-Islam College of Engineering. <i>This does not include pattern related programs</i>.<br><br>Provided by https://aiktc.ac.in",
+          "pages": "33",
+          "imageurl": "https://dl.dropboxusercontent.com/s/lvhd2wrf1cjjdvk/50ProgramsSolution0.png?dl=0,https://dl.dropboxusercontent.com/s/r9kbf1hampgtu52/50ProgramsSolution1.png?dl=0,https://dl.dropboxusercontent.com/s/izm2ma0aq43zl01/50ProgramsSolution2.png?dl=0,https://dl.dropboxusercontent.com/s/63oa3z573dfyrdt/50ProgramsSolution3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/bwdo760zp28kfav/50%20Programs%20Solution.pdf?dl=0"
+        },
+        {
+          "name": "Complete Notes",
+          "uploader": "Harish G. Narula",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "4992672",
+          "dateuploaded": "8th March 2019",
+          "description": "A complete notes on all chapters of <b>SPA</b>. <i>The document includes thoery and problems in Q&A format.</i>",
+          "pages": "375",
+          "imageurl": "https://dl.dropboxusercontent.com/s/qsmjqunkrwq7c3r/CompleteNotes0.png?dl=0,https://dl.dropboxusercontent.com/s/9rb6lxuv50rlhgz/CompleteNotes1.png?dl=0,https://dl.dropboxusercontent.com/s/wpqkbv5qnu9zj3d/CompleteNotes2.png?dl=0,https://dl.dropboxusercontent.com/s/jqmsnr6iw21myr2/CompleteNotes3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1GSzkAajROugBvqih2nXTi1QG25cO1f0f"
+        },
+        {
+          "name": "Complete Notes 2",
+          "uploader": "Prof. S. Rathod ",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "2983372",
+          "dateuploaded": "8th March 2019",
+          "description": "A complete notes on all chapters of <b>SPA</b>. <i>The document builds basics of SPA including thoery for writing programs.</i>",
+          "pages": "278",
+          "imageurl": "https://dl.dropboxusercontent.com/s/i6w4jw8fjsx36oo/CompleteNotes20.png?dl=0,https://dl.dropboxusercontent.com/s/h5sjkh4bwtplrpi/CompleteNotes21.png?dl=0,https://dl.dropboxusercontent.com/s/ia2kkmxx0av94wq/CompleteNotes22.png?dl=0,https://dl.dropboxusercontent.com/s/0sjqbaj52lnqbj5/CompleteNotes23.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/mlgrcjwwgfrqzcn/Complete%20Notes%202.pdf?dl=0"
+        },
+        {
+          "name": "Learn C Programming",
+          "uploader": "Tutorials Point",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "1614974",
+          "dateuploaded": "27th April 2019",
+          "description": "The book helps you in learning C language very efficiently. It also teaches you why and how this programming works and compiled to a machine level.<br>The book expands the knowledge of programming, most of part is nothing to do with our syllabus. It will eventually help you understanding higher concepts.<br><br>Provided by http://tutorialspoint.com",
+          "pages": "185",
+          "imageurl": "https://dl.dropboxusercontent.com/s/kqjzlere6kmh23h/LearnCProgramming0.png?dl=0,https://dl.dropboxusercontent.com/s/f7qzsxn8c236eri/LearnCProgramming1.png?dl=0,https://dl.dropboxusercontent.com/s/c974x4oir8rrbgd/LearnCProgramming2.png?dl=0,https://dl.dropboxusercontent.com/s/x481mrttdczxldj/LearnCProgramming3.png?dl=0",
+          "link": "https://dl.dropboxusercontent.com/s/7aw364fb9uj0jfm/Learn%20C%20Programming.pdf?dl=0"
+        }
+      ],
+      "library": [
+        {
+          "name": "Let Us C (E5)",
+          "uploader": "Yashavant P. Kanetkar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "6697295",
+          "dateuploaded": "17th March 2019",
+          "description": "One of the famous book for SPA. Great theory and great explanations.<br><br><b>Table of contents:</b><br><i>Getting Started, The Decision Control Structure, The Loop Control Structure, The Case Control Structure, Functions & Pointers, Data Types Revisited, The C Preprocessor, Arrays, Puppetting On Strings, Structures, Console Input & Output, File Input & Output, More Issues to Input & Output, Operations on Bits, Miscellaneous Features, C Under Windows, Windows Programming, Graphics Under Windows, Interaction With Hardware, C Under Linux, More Linux Programming, Appendix.</i>",
+          "pages": "728",
+          "imageurl": "https://dl.dropboxusercontent.com/s/lb5417hl1kx4okd/LetUsC%285E%290.png?dl=0,https://dl.dropboxusercontent.com/s/fof7x8uutdduf2j/LetUsC%285E%291.png?dl=0,https://dl.dropboxusercontent.com/s/apwjpcejhzq1e4h/LetUsC%285E%292.png?dl=0,https://dl.dropboxusercontent.com/s/otwlhbr1fgs0mv8/LetUsC%285E%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1Q4ugrzFCfp5iGIFujjNKSNeDpeKBI1Dv"
+        },
+        {
+          "name": "Programming in ANSI C (E5)",
+          "uploader": "Balagurusamy",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "20859214",
+          "dateuploaded": "8th March 2019",
+          "description": "A good book for learning C from Tata McGraw-Hill publications.<br><br><b>Table of Contents:</b><br><i>Overview of C, Constants-Variables and Data Types, Operators & Expressions, Managing Input and Output Operations, Decision Making & Branching, Decision Making and Looping, Arrays, Characters Arrays & Strings, User-defined Functions, Structures & Unions, Pointers, File Management in C, Dynamic Memory Allocation and Linked Lists, The Preprocessor, Develoing a C Program: Some Guidelines & Appendix</i>",
+          "pages": "462",
+          "imageurl": "https://dl.dropboxusercontent.com/s/adh95pp55fc00pl/ProgramminginANSIC%28E5%290.png?dl=0,https://dl.dropboxusercontent.com/s/1uubzq2cc54e3pk/ProgramminginANSIC%28E5%291.png?dl=0,https://dl.dropboxusercontent.com/s/s3h5awymw53rtmx/ProgramminginANSIC%28E5%292.png?dl=0,https://dl.dropboxusercontent.com/s/90yk47dx3my2h59/ProgramminginANSIC%28E5%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1tlIt56v8X5xtfC1qwHLcRG5FTYP-trMV"
+        },
+        {
+          "name": "Structured Programming Approach",
+          "uploader": "TechMax",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "41909637",
+          "dateuploaded": "8th March 2019",
+          "description": "A book by Harsh G. Narula and from most common and famous publications TechMax.<br><br>Provided by https://techmaxbooks.com",
+          "pages": "265",
+          "imageurl": "https://dl.dropboxusercontent.com/s/jcwxio46in8ud0p/StructuredProgrammingApproach2.png?dl=0,https://dl.dropboxusercontent.com/s/nrrieyj5mxvw74o/StructuredProgrammingApproach3.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1eutx4bT7-o8FbU3Z8PegDJTob7OjmEgd"
+        }
+      ]
+      }
+      ]
+    }
+  ]
+}
