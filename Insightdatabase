@@ -1390,41 +1390,6 @@
           "link": "https://dl.dropboxusercontent.com/s/qsfmcz0k2abxuuy/Revised%20Edition%202012.pdf?dl=0"
         }
       ],
-      "solutions": [
-        {
-          "name": "December 2013 - 2018 (P)",
-          "uploader": "MU Question Papers",
-          "uploadermail": "developerkp16@gmail.com",
-          "sizebytes": "7358496",
-          "dateuploaded": "8th March 2019",
-          "description": "The document includes question papers to previous years examinations typically from December 2013 to December 2018.<br><br>Provided by http://muquestionpapers.com",
-          "pages": "10",
-          "imageurl": "https://dl.dropboxusercontent.com/s/w09z60uxw6ampx9/December2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/0ks052af76h2gpm/December2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/e6zixoa9gxbwwod/December2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/fzs25vtn4ixs1jl/December2013-2018%28P%293.png?dl=0",
-          "link": "https://drive.google.com/uc?export=download&id=1XLPgDWgmgnXzR7Un4N86AGWlJnVP9UbV"
-        },
-        {
-          "name": "May & December 2013 - 2017 (S)",
-          "uploader": "Vidyalankar",
-          "uploadermail": "developerkp16@gmail.com",
-          "sizebytes": "27503765",
-          "dateuploaded": "8th March 2019",
-          "description": "The document includes solutions to previous years examinations typically from May 2013 to December 2017.<br><br>Provided by http://vidyalankar.org",
-          "pages": "85",
-          "imageurl": "https://dl.dropboxusercontent.com/s/g0eavdfq0wi9jri/May%26December2013-2017%28S%290.png?dl=0,https://dl.dropboxusercontent.com/s/zlpnw2cxz0tkfd0/May%26December2013-2017%28S%291.png?dl=0,https://dl.dropboxusercontent.com/s/b2br35ub5p9fbyu/May%26December2013-2017%28S%292.png?dl=0,https://dl.dropboxusercontent.com/s/yra5hz63nltd4e4/May%26December2013-2017%28S%293.png?dl=0",
-          "link": "https://drive.google.com/uc?export=download&id=1Go3W2rnNYXkn_bQOAwo8RIHAicfvTwsO"
-        },
-        {
-          "name": "May 2013 - 2018 (P)",
-          "uploader": "MU Question Papers",
-          "uploadermail": "developerkp16@gmail.com",
-          "sizebytes": "8483806",
-          "dateuploaded": "8th March 2019",
-          "description": "The document includes question papers to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by http://muquestionpapers.com",
-          "pages": "14",
-          "imageurl": "https://dl.dropboxusercontent.com/s/34c9wdproyjnnr1/May2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/m2k2orjc8eypzji/May2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/v9l7hvd9y40bg2z/May2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/7zwbxs65m7ngpwu/May2013-2018%28P%293.png?dl=0",
-          "link": "https://drive.google.com/uc?export=download&id=1vxaQFn1QT7AfgvCtJfGLf6FP2YgHikYu"
-        }
-      ],
       "notes": [
         {
           "name": "40 Programs Solution",
@@ -1515,6 +1480,52 @@
           "pages": "265",
           "imageurl": "https://dl.dropboxusercontent.com/s/jcwxio46in8ud0p/StructuredProgrammingApproach2.png?dl=0,https://dl.dropboxusercontent.com/s/nrrieyj5mxvw74o/StructuredProgrammingApproach3.png?dl=0",
           "link": "https://drive.google.com/uc?export=download&id=1eutx4bT7-o8FbU3Z8PegDJTob7OjmEgd"
+        }
+      ],
+      "solutions": [
+        {
+          "name": "December 2013 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "7358496",
+          "dateuploaded": "8th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from December 2013 to December 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "10",
+          "imageurl": "https://dl.dropboxusercontent.com/s/w09z60uxw6ampx9/December2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/0ks052af76h2gpm/December2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/e6zixoa9gxbwwod/December2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/fzs25vtn4ixs1jl/December2013-2018%28P%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1XLPgDWgmgnXzR7Un4N86AGWlJnVP9UbV"
+        },
+        {
+          "name": "May & December 2013 - 2017 (S)",
+          "uploader": "Vidyalankar",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "27503765",
+          "dateuploaded": "8th March 2019",
+          "description": "The document includes solutions to previous years examinations typically from May 2013 to December 2017.<br><br>Provided by http://vidyalankar.org",
+          "pages": "85",
+          "imageurl": "https://dl.dropboxusercontent.com/s/g0eavdfq0wi9jri/May%26December2013-2017%28S%290.png?dl=0,https://dl.dropboxusercontent.com/s/zlpnw2cxz0tkfd0/May%26December2013-2017%28S%291.png?dl=0,https://dl.dropboxusercontent.com/s/b2br35ub5p9fbyu/May%26December2013-2017%28S%292.png?dl=0,https://dl.dropboxusercontent.com/s/yra5hz63nltd4e4/May%26December2013-2017%28S%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1Go3W2rnNYXkn_bQOAwo8RIHAicfvTwsO"
+        },
+        {
+          "name": "May & December 2017 - 2018 (S)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "12127041",
+          "dateuploaded": "23th May 2019",
+          "description": "The document includes solution to previous year examinations from May 2017 to December 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "100",
+          "imageurl": "https://dl.dropboxusercontent.com/s/l1snpk2gmppmh1l/May%26December2017-2018%28S%290.png?dl=0,https://dl.dropboxusercontent.com/s/8dup1djzza0f45y/May%26December2017-2018%28S%291.png?dl=0,https://dl.dropboxusercontent.com/s/4k5wuq6a3m9r29z/May%26December2017-2018%28S%292.png?dl=0,https://dl.dropboxusercontent.com/s/jbd3ln4id9ib2n8/May%26December2017-2018%28S%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1JQw72J5nqoPkB7DTp1QJRJpKMnVBxD6v"
+        },
+        {
+          "name": "May 2013 - 2018 (P)",
+          "uploader": "MU Question Papers",
+          "uploadermail": "developerkp16@gmail.com",
+          "sizebytes": "8483806",
+          "dateuploaded": "8th March 2019",
+          "description": "The document includes question papers to previous years examinations typically from May 2013 to May 2018.<br><br>Provided by http://muquestionpapers.com",
+          "pages": "14",
+          "imageurl": "https://dl.dropboxusercontent.com/s/34c9wdproyjnnr1/May2013-2018%28P%290.png?dl=0,https://dl.dropboxusercontent.com/s/m2k2orjc8eypzji/May2013-2018%28P%291.png?dl=0,https://dl.dropboxusercontent.com/s/v9l7hvd9y40bg2z/May2013-2018%28P%292.png?dl=0,https://dl.dropboxusercontent.com/s/7zwbxs65m7ngpwu/May2013-2018%28P%293.png?dl=0",
+          "link": "https://drive.google.com/uc?export=download&id=1vxaQFn1QT7AfgvCtJfGLf6FP2YgHikYu"
         }
       ]
     }
