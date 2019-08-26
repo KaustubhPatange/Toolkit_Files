@@ -1,0 +1,115 @@
+{
+  "updates": {
+	"version":"1.0.6.3",
+	"release_date":"11th August 2019",
+	"update_size":"5963527",
+	"changelog":"version 1.0.6.3 Stable
+*Added: Search Everywhere tool like Android Studio
+*Added: Creating project from Firmware (requested feature)
+*Fix: Minute bug fixes",
+	"downloadlink":"https://www.dropbox.com/s/t2zs1kbxamqu2bx/adkupdate_1063.exe?dl=1"
+  },
+  "obsolute": "1.0.4.8",
+  "plugins":
+  "ADK Context [Script],KP,2nd January 2019,1.2.0.0,Right click context integration to compile/decompile apk-img-dat-br files.,This will add right click context to some file extension (like apk img dat br bin) to unpack or repack them.#Current supported files are boot recovery system vendor payload.bin file_contexts.bin.#This will modify your registry.,,https://goo.gl/NfJRsB,https://goo.gl/ZoEWFo,true,https://www.dropbox.com/s/nt9rkuslkane2wm/contexts_v1.2.exe?dl=1,855191,contexts.exe,type1
+Android Screencast,xSAVIKx,14th April 2018,0.0.10,AndroidScreencast was developed to view and control your android device from a PC,Android Screencast is an easy to use desktop application that allows you to control an android device and use all its functions like testing applications remotely using mouse and keyboard in a desktop interface#Android Screencast is free to download and use., ,https://androdevkit.wordpress.com/android-screencast/,https://github.com/xSAVIKx/AndroidScreencast,true,https://dl.dropboxusercontent.com/s/g05885owrt1a4fp/cast.exe?dl=0,4092007,android.jar,type1
+Boot-Animation Downloader,KP,19th January 2019,1.0.0.0,An addon to Boot-Animation Manager in ADK through which you can change your current boot-animation from 50+ built-in animation file.,All files are copyright free as mentioned by the author. Check the original post on XDA from project url.,,https://androdevkit.wordpress.com/2018/03/21/boot-animation-manager/,https://androdevkit.wordpress.com/2019/01/19/boot-animation-downloader-plugin/,true,https://drive.google.com/uc?https://drive.google.com/uc?export=download&id=1hrVBIAg-lwFeQ4P-Hp9wwaAIY88fWIWF,91435307,bootanim.exe,type1
+Fulmics deodexer,xpirt,20th December 2017,1.6,Fulmics Deodexer is an useful and easy-to-use Windows tool to automate the process of deodexing of your custom rom,It uses baksmali and smali binaries by @JesusFreke to deodex all *.odex and *.oat files in your system#It automatically identifies all classes present in those files and deodex accordingly#It has been heavily tested on Marshmallow and Nougat LG stock roms and it works flawlessly and so it should do on other systems as well,https://dl.dropboxusercontent.com/s/348njllq90yr8y8/fd?dl=0,https://androdevkit.wordpress.com/fulmics-deodexer/,https://forum.xda-developers.com/android/software-hacking/tooll-03-12-fulmics-deodexer-1-0-t3512081,true,https://dl.dropboxusercontent.com/s/9l3pwj0c6icssah/fd.exe?dl=0,1711094,FulmicsDeodexer.exe,type1
+Kismth,KP,19th April 2018,1.0.0.0,A Tool to create scatter files and other fun stuffs.,This tool is an inspiration from MTK Droid Tools (by look not code). With this you can possibly do a lot of things :) All guides are can be find here check them out :),https://dl.dropboxusercontent.com/s/q8axt3nkl5w5l4j/BisMth?dl=0,https://androdevkit.wordpress.com/?s=Kismth,http://androdevkit.wordpress.com/kismth,true,https://dl.dropboxusercontent.com/s/pdw0or5rd87s2oj/kismth.exe?dl=0,6739079,KisMth.exe,type1
+Scout,k1ll3r8e,15th Feb 2018,1.0.0.0,An Amazing Device Explorer that lets you view-edit-copy-move your Android Files to PC and vice-versa,It also has an ability to edit System files also via root permission., ,https://androdevkit.wordpress.com/scout/,https://forum.xda-developers.com/android/software-hacking/dev-androidctrlui-dll-mvvms-based-t2882073,true,https://dl.dropboxusercontent.com/s/89y3h5si3svuu0w/scout.exe?dl=0,1794313,Scout.exe,type1
+SnapTaker,KP,13th December 2018,1.0.0.0,An utility to take device screenshots in system as well as in recovery mode.,An android generic tool which allows you to take device screenshots in system as well as in recovery mode from PC easily.,https://dl.dropboxusercontent.com/s/l8683tci5hf1k8y/snaptaker?dl=0,https://androdevkit.wordpress.com/2018/12/13/snap-taker/,,true,https://dl.dropboxusercontent.com/s/0waex68573dibuh/snap.exe?dl=0,602742,SnapTaker.exe,type1
+Prop Tweaker,KP,12th Nov 2017,2.1.0.0,A statistically Good and Advance build prop tweaker which contains more than 12 tweak scripts for increasing performance of Device,It also has an better GUI with syntax highlighting for .prop. You can pull the prop file from device push it back to device via Adb. Also you can create a Recovery Flashable zip,https://dl.dropboxusercontent.com/s/hcfdrmmqrtmm5vt/prop_icon?dl=0,https://androdevkit.wordpress.com/bpt/,https://forum.xda-developers.com/android/general/mini-build-prop-tweaker-t3588470,true,https://dl.dropboxusercontent.com/s/t5naenuxwxgsc1n/ptweak.exe?dl=0,966258,ptweak.exe,type1
+Unified Deodex,KP,19th January 2019,0.5.0.0,A current replacement deodexer tool for ADK supporting deodexing upto 9.0,This tool is purely an inspiration from TOAD (link can be found in about section).,,,,true,https://dl.dropboxusercontent.com/s/l2434rzwbl7t7fw/deo.exe?dl=0,567056,deodex.exe,type1
+",
+  "about": "System Tools
+---------------------
+FastColoredTextBoxNS -- https://github.com/PavelTorgashov/FastColoredTextBox
+
+Console Control -- https://github.com/dwmkerr/consolecontrol
+
+Visual Studio like TabControl -- TabControl (Visual Studio Type) -- https://www.codeproject.com/Articles/1106140/VisualStudio-Like-TabControl
+
+JacksonSoft Custom TabControl -- https://www.codeproject.com/Articles/91387/Painting-Your-Own-Tabs-Second-Edition
+
+Zopfli-sharp -- https://github.com/echovoice/libzopfli-sharp
+
+Winform animation -- https://github.com/falahati/WinFormAnimation
+
+Resizable ListBox -- https://www.codeproject.com/Articles/7489/An-auto-resize-C-Listbox-updated
+
+Hex Editor -- https://github.com/abbaye/WpfHexEditorControl
+
+External Libs
+-----------------------
+Detection for Windows OS -- https://www.codeproject.com/Articles/73000/Getting-Operating-System-Version-Info-Even-for-Win
+
+Translation Tool -- https://github.com/ivanakcheurov/ntextcat
+
+Do Not Show Message Box -- https://www.codeproject.com/Articles/7049/A-quot-Don-t-show-this-again-quot-checkbox-for-the
+
+Image Compression -- https://github.com/echovoice/libzopfli-sharp
+
+LibUsbDotNet -- https://www.nuget.org/packages/LibUsbDotNet
+
+Apk Reader -- https://github.com/hylander0/Iteedee.ApkReader
+
+Compression Tool -- https://icsharpcode.github.io/SharpZipLib
+
+Android Lib -- https://github.com/regaw-leinad/AndroidLib
+
+Aforge -- http://www.aforgenet.com/framework
+
+SmaliHelper -- https://github.com/ViRb3/SmaliHelper
+
+7zip -- http://www.7-zip.org
+
+Taskbar Progress -- https://wyday.com/windows-7-progress-bar
+
+Tools (I Used)
+-------------------------
+Apktool -- https://ibotpeaches.github.io/Apktool
+
+Smali/Baksmali -- https://github.com/JesusFreke/smali
+
+ColorX -- https://kpstvhub.com/blog/2017/05/27/colorx
+
+Androsim -- https://github.com/HackLinux/androguard
+
+Deodex Tool -- https://forum.xda-developers.com/galaxy-s5/general/tool-deodex-tool-android-l-t2972025
+
+CFR -- http://www.benf.org/other/cfr
+
+Jadx -- https://github.com/skylot/jadx
+
+Cygwin Tools -- https://www.cygwin.com
+
+ChainFire's ADBD -- https://forum.xda-developers.com/showthread.php?t=1687590
+
+DexPatcher -- https://github.com/DexPatcher/dexpatcher-tool
+
+Signer -- https://github.com/appium/sign
+
+PNG optimizer -- https://code.google.com/archive/p/roptipng
+
+Loki Tool -- https://github.com/djrbliss/loki
+
+cecho -- https://github.com/lordmulder/cecho
+
+TOAD (A deodexer tool) -- https://goo.gl/kxtwGB
+
+Auto Materialised TWRP Tool -- https://kpstvhub.com/blog/2017/03/15/auto-twrp-tool
+
+Some GSD Tool Patches -- https://forum.xda-developers.com/android/software/dev-gsd-android-tool-android-tool-t3690772
+
+Android Image Kitchen -- https://forum.xda-developers.com/showthread.php?t=2073775
+
+Logo Builder -- https://sites.google.com/site/kadanutilities/home/logobuilder-en
+
+TWRP Themes by GML -- https://forum.xda-developers.com/member.php?u=5247964
+
+Dex2jar -- https://github.com/pxb1988/dex2jar
+
+Vdexextractor -- https://github.com/anestisb/vdexExtractor
+
+If you find that I used your Tool but didn't see the credits over here, Contact me :) I will add it soon"
+}
