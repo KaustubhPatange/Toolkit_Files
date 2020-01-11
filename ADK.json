@@ -1,12 +1,11 @@
 {
   "updates": {
-	"version":"1.0.6.3",
-	"release_date":"11th August 2019",
-	"update_size":"5963527",
-	"changelog":"version 1.0.6.3 Stable
-*Added: Search Everywhere tool like Android Studio
-*Added: Creating project from Firmware (requested feature)
-*Fix: Minute bug fixes",
+	"version":"1.0.6.8",
+	"release_date":"11th January 2020",
+	"update_size":"7623100",
+	"changelog":"version 1.0.6.8 Stable
+*Added: Precise app debugging feature
+*Fix: Android Image Tool option",
 	"downloadlink":"https://www.dropbox.com/s/t2zs1kbxamqu2bx/adkupdate_1063.exe?dl=1"
   },
   "obsolute": "1.0.4.8",
