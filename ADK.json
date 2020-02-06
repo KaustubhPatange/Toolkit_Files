@@ -1,12 +1,13 @@
 {
   "updates": {
-	"version":"1.0.6.8",
-	"release_date":"11th January 2020",
-	"update_size":"7623100",
-	"changelog":"version 1.0.6.8 Stable
-*Added: Precise app debugging feature
-*Fix: Android Image Tool option",
-	"downloadlink":"https://www.dropbox.com/s/098dearqmyc7967/adkupdate_1068.exe?dl=1"
+	"version":"1.0.6.9",
+	"release_date":"6th February 2020",
+	"update_size":"7625795",
+	"changelog":"version 1.0.6.9 Stable
+*Update: Precise app debugging feature
+*Update: Small changes made to some option
+*Fix: Bugs reported by user",
+	"downloadlink":"https://www.dropbox.com/s/1buo56yx12xt1cs/adkupdate_1069.exe?dl=1"
   },
   "obsolute": "1.0.4.8",
   "plugins":
