@@ -1,13 +1,15 @@
 {
   "updates": {
-	"version":"1.0.6.9",
-	"release_date":"6th February 2020",
-	"update_size":"7625795",
-	"changelog":"version 1.0.6.9 Stable
-*Update: Precise app debugging feature
-*Update: Small changes made to some option
-*Fix: Bugs reported by user",
-	"downloadlink":"https://www.dropbox.com/s/1buo56yx12xt1cs/adkupdate_1069.exe?dl=1"
+	"version":"1.0.7.1",
+	"release_date":"25th May 2020",
+	"update_size":"8144513",
+	"changelog":"version 1.0.7.1 Stable
+*Updated: ADK Debugging tool
+*Fixed: Issues with some Android Image Tool
+*Fixed: Building of app project for certain apps
+*Fixed: Creating ROM Project for some certain device ROMs
+*Fixed: Reported bugs",
+	"downloadlink":"https://www.dropbox.com/s/lvkbk9p0qikkc5b/adkupdate_1071.exe?dl=1"
   },
   "obsolute": "1.0.4.8",
   "plugins":
