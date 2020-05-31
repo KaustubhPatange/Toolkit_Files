@@ -1,15 +1,12 @@
 {
   "updates": {
-	"version":"1.0.7.1",
-	"release_date":"25th May 2020",
-	"update_size":"8144513",
-	"changelog":"version 1.0.7.1 Stable
-*Updated: ADK Debugging tool
-*Fixed: Issues with some Android Image Tool
-*Fixed: Building of app project for certain apps
-*Fixed: Creating ROM Project for some certain device ROMs
-*Fixed: Reported bugs",
-	"downloadlink":"https://www.dropbox.com/s/lvkbk9p0qikkc5b/adkupdate_1071.exe?dl=1"
+	"version":"1.0.7.2",
+	"release_date":"31st May 2020",
+	"update_size":"8145064",
+	"changelog":"version 1.0.7.2 Stable
+*Fixed: New project creation issue
+*Fixed: Reduced application closing time",
+	"downloadlink":"https://www.dropbox.com/s/rswfsney3r42okx/adkupdate_1072.exe?dl=1"
   },
   "obsolute": "1.0.4.8",
   "plugins":
